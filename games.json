@@ -1,0 +1,4955 @@
+{
+  "games": [
+    {
+      "name": "1001 Spikes",
+      "score": "8.0",
+      "description":
+        "1001 Spikes is nightmarishly tough but impossible to put down. It's a treat for retro fans and hardcore masochists.",
+      "oneword": "Great",
+      "platforms": ["Xbox One", "Vita"],
+      "url": "http://www.ign.com/articles/2014/06/08/1001-spikes-review"
+    },
+    {
+      "name": "100ft Robot Golf",
+      "score": "5.0",
+      "description":
+        "100ft Robot Golf is neither a good golf game, nor a good giant robot game.",
+      "oneword": "Mediocre",
+      "platforms": ["PC", "PS4"],
+      "url": "http://www.ign.com/articles/2016/10/20/100ft-robot-golf-review"
+    },
+    {
+      "name": "A Hat in Time",
+      "score": "8.0",
+      "description":
+        "A Hat in Time is an adorable homage to the heyday of 3D platformers that manages to pull a few fun tricks from its hat.",
+      "oneword": "Great",
+      "platforms": ["PC", "Mac", "PS4", "Xbox One"],
+      "url": "http://www.ign.com/articles/2017/10/16/a-hat-in-time-review"
+    },
+    {
+      "name": "AO Tennis",
+      "score": "4.5",
+      "description":
+        "AO Tennis is an underdeveloped and under-featured simulation of the sport.",
+      "oneword": "Bad",
+      "platforms": ["Xbox One", "PS4"],
+      "url": "http://www.ign.com/articles/2018/01/17/ao-tennis-review"
+    },
+    {
+      "name": "Abzu",
+      "score": "8.4",
+      "description":
+        "Abzu relishes in giving you freedom to enjoy exploring the fascinating deep blue sea.",
+      "oneword": "Great",
+      "platforms": ["PS4", "PC", "Xbox One"],
+      "url": "http://www.ign.com/articles/2016/08/01/abzu-review"
+    },
+    {
+      "name": "Agents of Mayhem",
+      "score": "7.1",
+      "description":
+        "With fun combat and a likable cast, Agents of Mayhem leans too heavily on repetitive fights to be truly heroic.",
+      "oneword": "Good",
+      "platforms": ["Xbox One", "PS4", "PC"],
+      "url": "http://www.ign.com/articles/2017/08/15/agents-of-mayhem-review"
+    },
+    {
+      "name": "Agony",
+      "score": "4.0",
+      "description":
+        "Agony is agonizing in all the wrong ways. The painful gameplay takes the gruesome joy out of its disturbing imagery.",
+      "oneword": "Bad",
+      "platforms": ["PS4", "PC", "Xbox One"],
+      "url": "http://www.ign.com/articles/2018/05/30/agony-review"
+    },
+    {
+      "name": "Alien: Isolation",
+      "score": "5.9",
+      "description":
+        "Alien: Isolation erases the memory of Colonial Marines, but it's still not the great Alien game we were hoping for.",
+      "oneword": "Mediocre",
+      "platforms": ["Xbox 360", "Xbox One", "PC", "PS4", "PS3"],
+      "url": "http://www.ign.com/articles/2014/10/03/alien-isolation-review"
+    },
+    {
+      "name": "Alienation",
+      "score": "8.7",
+      "description":
+        "Alienation picks up the pace, turns up the color, and builds on the progression systems of its predecessor beautifully.",
+      "oneword": "Great",
+      "platforms": ["PS4"],
+      "url": "http://www.ign.com/articles/2016/04/29/alienation-review"
+    },
+    {
+      "name": "Amplitude",
+      "score": "7.0",
+      "description":
+        "This HD remake nails the rhythm-based gameplay, but comes up short with its one-note soundtrack and lack of modes.",
+      "oneword": "Good",
+      "platforms": ["PS3", "PS4"],
+      "url": "http://www.ign.com/articles/2016/01/07/amplitude-review"
+    },
+    {
+      "name": "Ancestors Legacy",
+      "score": "7.7",
+      "description":
+        "Ancestors Legacy scratches the itch for a traditional RTS, but underdelivers on its promise of historical accuracy.",
+      "oneword": "Good",
+      "platforms": ["Xbox One", "PC"],
+      "url": "http://www.ign.com/articles/2018/05/31/ancestors-legacy-review"
+    },
+    {
+      "name": "Another World: 20th Anniversary",
+      "score": "4.0",
+      "description":
+        "Another World is considered a classic from a golden era of games. I have no idea why.",
+      "oneword": "Bad",
+      "platforms": [
+        "Android",
+        "PS3",
+        "3DS",
+        "PS4",
+        "Switch",
+        "iPhone",
+        "Vita",
+        "Wii U",
+        "Xbox One",
+        "PC"
+      ],
+      "url":
+        "http://www.ign.com/articles/2014/07/11/another-world-20th-anniversary-review"
+    },
+    {
+      "name": "Ashes Cricket",
+      "score": "8.0",
+      "description":
+        "Ashes Cricket isn\u2019t pitch perfect, but it\u2019s the best videogame representation of the sport to date.",
+      "oneword": "Great",
+      "platforms": ["Xbox One", "PC", "PS4"],
+      "url": "http://www.ign.com/articles/2017/11/15/ashes-cricket-review"
+    },
+    {
+      "name": "Assassin's Creed 4: Black Flag",
+      "score": "8.5",
+      "description":
+        "Assassin's Creed IV: Black Flag is a gorgeous, fantastic sequel that gives you the freedom to make your own fun.",
+      "oneword": "Great",
+      "platforms": ["PC"],
+      "url":
+        "http://www.ign.com/articles/2013/10/29/assassins-creed-4-black-flag-review"
+    },
+    {
+      "name": "Assassin's Creed 4: Black Flag Freedom Cry",
+      "score": "7.0",
+      "description":
+        "Assassin's Creed IV: Black Flag Freedom Cry tells a great, emotional story in the shell of classic AC gameplay.",
+      "oneword": "Good",
+      "platforms": ["Xbox One", "PC", "PS3", "Xbox 360", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2013/12/16/assassins-creed-4-black-flag-freedom-cry-review"
+    },
+    {
+      "name": "Assassin's Creed Chronicles: China",
+      "score": "6.4",
+      "description":
+        "Assassin's Creed Chronicles: China does a lot of the hard stuff well, but can't convey the rush of being an assassin.",
+      "oneword": "Okay",
+      "platforms": ["Xbox One", "PS4", "PC"],
+      "url":
+        "http://www.ign.com/articles/2015/04/21/assassins-creed-chronicles-china-review"
+    },
+    {
+      "name": "Assassin's Creed Origins",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": null,
+      "url":
+        "http://www.ign.com/articles/2017/10/26/assassins-creed-origins-review"
+    },
+    {
+      "name": "Assassin's Creed Origins: The Curse of the Pharaohs DLC",
+      "score": "8.8",
+      "description":
+        "Assassin's Creed Origins: The Curse of the Pharaohs' journey into Egyptian mythology has a detailed story, challenging combat, and surreal afterlife worlds.",
+      "oneword": "Great",
+      "platforms": ["PS4", "PC", "Xbox One"],
+      "url":
+        "http://www.ign.com/articles/2018/03/14/assassins-creed-origins-the-curse-of-the-pharaohs-dlc-review"
+    },
+    {
+      "name": "Assassin's Creed Origins: The Hidden Ones DLC",
+      "score": "8.4",
+      "description":
+        "Assassin's Creed Origins: The Hidden Ones makes great use of the main game's mechanics to create high-level challenge.",
+      "oneword": "Great",
+      "platforms": ["PS4", "PC", "Xbox One"],
+      "url":
+        "http://www.ign.com/articles/2018/02/03/assassins-creed-origins-the-hidden-ones-dlc-review"
+    },
+    {
+      "name": "Assassin's Creed Syndicate",
+      "score": "8.2",
+      "description":
+        "Syndicate pushes its thick lore into the background and delivers the most fun and focussed Assassin's game in a while.",
+      "oneword": "Great",
+      "platforms": ["PS4", "PC", "Xbox One"],
+      "url":
+        "http://www.ign.com/articles/2015/10/22/assassins-creed-syndicate-review"
+    },
+    {
+      "name": "Assassin's Creed Unity",
+      "score": "7.8",
+      "description":
+        "Assassin's Creed Unity is a gorgeous and entertaining game of impossible peaks and disappointing valleys.",
+      "oneword": "Good",
+      "platforms": ["PC", "PS4", "Xbox One"],
+      "url":
+        "http://www.ign.com/articles/2014/11/11/assassins-creed-unity-review"
+    },
+    {
+      "name": "Assetto Corsa PS4/Xbox One",
+      "score": "6.0",
+      "description":
+        "Assetto Corsa is an amazing driving simulator but it's not a very good racing simulator.",
+      "oneword": "Okay",
+      "platforms": ["PC", "Xbox One", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2016/08/31/assetto-corsa-ps4xbox-one-review"
+    },
+    {
+      "name": "Attack on Titan",
+      "score": "7.3",
+      "description":
+        "Though the epilogue has some serious pacing problems, Attack on Titan is a fun, bloody take on the series.",
+      "oneword": "Good",
+      "platforms": ["PS3", "Xbox One", "PC", "Vita", "PS4"],
+      "url": "http://www.ign.com/articles/2016/08/26/attack-on-titan-review"
+    },
+    {
+      "name": "Attack on Titan 2",
+      "score": "7.0",
+      "description":
+        "Small changes go a long way toward improving Attack on Titan 2's gameplay, but a poorly paced story and recycled content weigh it down.",
+      "oneword": "Good",
+      "platforms": ["PS4", "Xbox One", "Switch", "Vita", "PC"],
+      "url": "http://www.ign.com/articles/2018/03/15/attack-on-titan-2-review"
+    },
+    {
+      "name": "Axiom Verge",
+      "score": "7.9",
+      "description":
+        "Axiom Verge isn\u2019t a perfect homage to Metroid, but we still enjoyed our time in this strange, familiar world.",
+      "oneword": "Good",
+      "platforms": ["Vita"],
+      "url": "http://www.ign.com/articles/2015/03/30/axiom-verge-review"
+    },
+    {
+      "name": "Basement Crawl",
+      "score": "3.0",
+      "description":
+        "Basement Crawl is a limp, poorly presented, and broken Bomberman clone, and easily the worst PS4 game to date.",
+      "oneword": "Awful",
+      "platforms": ["PS4"],
+      "url": "http://www.ign.com/articles/2014/03/06/basement-crawl-review"
+    },
+    {
+      "name": "Batman: Arkham Knight",
+      "score": "9.2",
+      "description":
+        "Batman: Arkham Knight is an impressive game on almost every level, with non-stop variety and great action.",
+      "oneword": "Amazing",
+      "platforms": ["Xbox One", "PC", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2015/06/19/batman-arkham-knight-review"
+    },
+    {
+      "name": "Batman: Arkham Knight - Catwoman's Revenge DLC",
+      "score": "6.0",
+      "description": "A fun distraction, but a distraction is all this is.",
+      "oneword": "Okay",
+      "platforms": ["Xbox One", "PS4", "PC"],
+      "url":
+        "http://www.ign.com/articles/2015/11/30/batman-arkham-knight-catwomans-revenge-dlc-review"
+    },
+    {
+      "name": "Batman: Arkham VR",
+      "score": "7.2",
+      "description":
+        "Batman: Arkham VR puts you in Rocksteady's universe and enhances detective work, but Batman's physical side is lacking.",
+      "oneword": "Good",
+      "platforms": ["PC", "PS4"],
+      "url": "http://www.ign.com/articles/2016/10/05/batman-arkham-vr-review"
+    },
+    {
+      "name": "Battleborn",
+      "score": "7.1",
+      "description":
+        "Battleborn's fun heroes and leveling will keep you hooked despite a lack of content.",
+      "oneword": "Good",
+      "platforms": ["Xbox One", "PS4", "PC"],
+      "url": "http://www.ign.com/articles/2016/05/02/battleborn-review"
+    },
+    {
+      "name": "Battlefield 1",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": null,
+      "url": "http://www.ign.com/articles/2016/10/21/battlefield-1-review"
+    },
+    {
+      "name": "Battlefield 1: Apocalypse DLC",
+      "score": "7.0",
+      "description":
+        "Battlefield 1: Apocalypse brings some beautiful new ground maps, even if its Air Assault mode is less interesting.",
+      "oneword": "Good",
+      "platforms": ["PC", "Xbox One", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2018/02/28/battlefield-1-apocalypse-dlc-review"
+    },
+    {
+      "name": "Battlefield 4 PS4",
+      "score": "8.5",
+      "description":
+        "Battlefield 4\u2019s devastating destruction is an interesting, imperfect addition to its excellent multiplayer.",
+      "oneword": "Great",
+      "platforms": ["PS3", "PS4", "Xbox One", "PC", "Xbox 360"],
+      "url": "http://www.ign.com/articles/2013/11/19/battlefield-4-ps4-review"
+    },
+    {
+      "name": "Battlefield Hardline",
+      "score": "8.0",
+      "description":
+        "Battlefield's first foray into stealth makes for a fresh campaign, and the multiplayer has something for everyone.",
+      "oneword": "Great",
+      "platforms": ["PS4", "PC", "PS3", "Xbox One", "Xbox 360"],
+      "url":
+        "http://www.ign.com/articles/2015/03/16/battlefield-hardline-review"
+    },
+    {
+      "name": "Battlestar Galactica: Deadlock",
+      "score": "7.8",
+      "description":
+        "Better late than never, Battlestar Galactica gets the smart starship tactics game it deserved in BSG: Deadlock.",
+      "oneword": "Good",
+      "platforms": ["Xbox One", "PC", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2017/12/13/battlestar-galactica-deadlock-review-2"
+    },
+    {
+      "name": "Battlezone VR",
+      "score": "6.3",
+      "description":
+        "Battlezone VR makes a solid first impression, but its shallow combat and limp weaponry make the enjoyment short-lived.",
+      "oneword": "Okay",
+      "platforms": ["PS4", "PC", "Xbox One", "Switch"],
+      "url": "http://www.ign.com/articles/2016/10/05/battlezone-vr-review"
+    },
+    {
+      "name": "Berserk and the Band of the Hawk",
+      "score": "6.3",
+      "description":
+        "Berserk fits the Dynasty Warriors mold well in Band of the Hawk, but the too-easy combat still gets very repetitive.",
+      "oneword": "Okay",
+      "platforms": ["PC", "Vita", "PS3", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2017/02/21/berserk-and-the-band-of-the-hawk-review"
+    },
+    {
+      "name": "Beyond Eyes",
+      "score": "5.5",
+      "description":
+        "Beyond Eyes has a fascinating premise and a lot of potential, but its bare-bones plot just isn\u2019t up to the task.",
+      "oneword": "Mediocre",
+      "platforms": ["PS4", "Xbox One", "PC"],
+      "url": "http://www.ign.com/articles/2015/08/07/beyond-eyes-review"
+    },
+    {
+      "name": "BioShock: The Collection",
+      "score": "8.2",
+      "description":
+        "BioShock: The Collection is a great introduction for newcomers, but returning vets will find little new here.",
+      "oneword": "Great",
+      "platforms": ["PS4", "Xbox One"],
+      "url":
+        "http://www.ign.com/articles/2016/09/13/bioshock-the-collection-review"
+    },
+    {
+      "name": "Black: The Fall",
+      "score": "6.5",
+      "description":
+        "Black: The Fall Is a blatant, so-so clone of Playdead's 2016 masterpiece.",
+      "oneword": "Okay",
+      "platforms": ["Switch", "PC", "PS4", "Xbox One"],
+      "url": "http://www.ign.com/articles/2017/07/20/black-the-fall-review"
+    },
+    {
+      "name": "BlazBlue Cross Tag Battle",
+      "score": "8.3",
+      "description":
+        "BlazBlue Cross Tag Battle's mixture of fighting games leads to a surprisingly approachable entry point into the genre.",
+      "oneword": "Great",
+      "platforms": ["PS4", "PC", "Switch"],
+      "url":
+        "http://www.ign.com/articles/2018/06/05/blazblue-cross-tag-battle-review"
+    },
+    {
+      "name": "Bloodborne",
+      "score": "9.1",
+      "description":
+        "Bloodborne delivers an exhausting and exhilarating journey into the depths of madness.",
+      "oneword": "Amazing",
+      "platforms": ["PS4"],
+      "url": "http://www.ign.com/articles/2015/03/23/bloodborne-review"
+    },
+    {
+      "name": "Bloodborne: The Old Hunters",
+      "score": "8.0",
+      "description":
+        "A dense, intriguing, but ultimately safe expansion, The Old Hunters is more of the same brutal Bloodborne experience.",
+      "oneword": "Great",
+      "platforms": ["PS4"],
+      "url":
+        "http://www.ign.com/articles/2015/11/23/bloodborne-the-old-hunters-review"
+    },
+    {
+      "name": "Bloodstained: Curse of the Moon",
+      "score": "8.2",
+      "description":
+        "Bloodstained: Curse of the Moon is a Castlevania III homage that plays dangerously close to its source material, but introduces interesting ideas that make it highly replayable.",
+      "oneword": "Great",
+      "platforms": ["Xbox One"],
+      "url":
+        "http://www.ign.com/articles/2018/05/30/bloodstained-curse-of-the-moon-review"
+    },
+    {
+      "name": "Blue Estate",
+      "score": "3.0",
+      "description":
+        "Blue Estate is a by-the-numbers rail shooter with gameplay that's just as outdated as its social politics.",
+      "oneword": "Awful",
+      "platforms": ["PC", "Xbox One", "PS4"],
+      "url": "http://www.ign.com/articles/2014/06/30/blue-estate-review"
+    },
+    {
+      "name": "Borderlands: The Handsome Collection",
+      "score": "8.4",
+      "description":
+        "The Handsome Collection wraps up six years-worth of great Borderlands content and puts a nice bow on it.",
+      "oneword": "Great",
+      "platforms": ["PS4", "Xbox One"],
+      "url":
+        "http://www.ign.com/articles/2015/03/24/borderlands-the-handsome-collection-review"
+    },
+    {
+      "name": "Bound",
+      "score": "7.0",
+      "description":
+        "Bound is a gorgeous and emotional PS4 platformer that stumbles a bit, but still manages to maintain its grace.",
+      "oneword": "Good",
+      "platforms": ["PS4"],
+      "url": "http://www.ign.com/articles/2016/08/15/bound-review"
+    },
+    {
+      "name": "Bound by Flame",
+      "score": "7.0",
+      "description":
+        "While parts of Bound By Flame are messy, its combat is strong enough to keep the fire stoked.",
+      "oneword": "Good",
+      "platforms": ["PS3", "PS4", "PC", "Xbox 360"],
+      "url": "http://www.ign.com/articles/2014/05/12/bound-by-flame-review"
+    },
+    {
+      "name": "Bubsy: The Woolies Strike Back",
+      "score": "4.5",
+      "description":
+        "Bubsy: The Woolies Strike Back revives a dormant platforming adventurer\u2026 and he\u2019s welcome to leave again any time now.",
+      "oneword": "Bad",
+      "platforms": ["PS4", "PC"],
+      "url":
+        "http://www.ign.com/articles/2017/11/03/bubsy-the-woolies-strike-back-review"
+    },
+    {
+      "name": "Bulletstorm: Full Clip Edition",
+      "score": "7.8",
+      "description":
+        "A welcome visual upgrade to 2011's shooter, it's just a shame there aren't more extras in this package.",
+      "oneword": "Good",
+      "platforms": ["Xbox One", "PC", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2017/04/06/bulletstorm-full-clip-edition-review"
+    },
+    {
+      "name": "Call of Duty: Advanced Warfare",
+      "score": "9.1",
+      "description":
+        "Advanced Warfare is faster and more focused than any Call of Duty before it.",
+      "oneword": "Amazing",
+      "platforms": ["PC", "PS3", "Xbox 360", "PS4", "Xbox One"],
+      "url":
+        "http://www.ign.com/articles/2014/11/03/call-of-duty-advanced-warfare-review"
+    },
+    {
+      "name": "Call of Duty: Black Ops 3",
+      "score": "9.2",
+      "description":
+        "With fun 4-player co-op, new powers, and a fleshed out Zombies mode, Black Ops 3 is the biggest Call of Duty game yet.",
+      "oneword": "Amazing",
+      "platforms": ["Xbox 360", "PS3", "PC", "PS4", "Xbox One"],
+      "url":
+        "http://www.ign.com/articles/2015/11/05/call-of-duty-black-ops-3-review"
+    },
+    {
+      "name": "Call of Duty: Ghosts",
+      "score": "8.8",
+      "description":
+        "Call of Duty: Ghosts' robust multiplayer suite and refreshingly varied campaign make it one of the best in the series.",
+      "oneword": "Great",
+      "platforms": ["PC"],
+      "url": "http://www.ign.com/articles/2013/11/05/call-of-duty-ghosts-review"
+    },
+    {
+      "name": "Call of Duty: Infinite Warfare",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": null,
+      "url":
+        "http://www.ign.com/articles/2016/11/07/call-of-duty-infinite-warfare-review"
+    },
+    {
+      "name": "Call of Duty: Modern Warfare Remastered",
+      "score": "8.5",
+      "description":
+        "Modern Warfare Remastered brings a significant graphical upgrade to the classic shooter.",
+      "oneword": "Great",
+      "platforms": ["Xbox One", "PS4", "PC"],
+      "url":
+        "http://www.ign.com/articles/2016/11/08/call-of-duty-modern-warfare-remastered-review"
+    },
+    {
+      "name": "Call of Duty: WW2",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": null,
+      "url": "http://www.ign.com/articles/2017/11/07/call-of-duty-ww2-review"
+    },
+    {
+      "name": "Call of Duty: WW2 - The War Machine DLC",
+      "score": "7.1",
+      "description":
+        "The War Machine is an uneven DLC with a great new multiplayer map and Zombies chapter but unfortunate issues elsewhere.",
+      "oneword": "Good",
+      "platforms": ["Xbox One", "PC", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2018/04/13/call-of-duty-ww2-the-war-machine-dlc-review"
+    },
+    {
+      "name": "Call of Duty: WWII - The Resistance DLC",
+      "score": "7.7",
+      "description":
+        "CoD: WW2's The Resistance DLC offers some needed multiplayer map variety and introduces a challenging new Zombies chapter.",
+      "oneword": "Good",
+      "platforms": ["Xbox One", "PC", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2018/02/07/call-of-duty-wwii-the-resistance-dlc-review"
+    },
+    {
+      "name": "Carmageddon: Max Damage",
+      "score": "5.4",
+      "description":
+        "Carmageddon: Max Damage feels like it was designed in and for the year 1999, which doesn\u2019t work in 2016.",
+      "oneword": "Mediocre",
+      "platforms": ["Xbox One", "PS4", "PC"],
+      "url":
+        "http://www.ign.com/articles/2016/07/12/carmageddon-max-damage-review"
+    },
+    {
+      "name": "Celeste",
+      "score": "10",
+      "description":
+        "Celeste\u2019s incredible platforming, innumerable secrets, and emotionally genuine story make it a surprise triumph.",
+      "oneword": "Masterpiece",
+      "platforms": ["Switch", "PS4", "PC", "Xbox One"],
+      "url": "http://www.ign.com/articles/2018/01/25/celeste-review"
+    },
+    {
+      "name": "Child of Light",
+      "score": "9.3",
+      "description":
+        "With its gorgeous art, exemplary combat, and hand-crafted aesthetic, no RPG fan should miss Child of Light.",
+      "oneword": "Amazing",
+      "platforms": ["PC", "Vita"],
+      "url": "http://www.ign.com/articles/2014/04/28/child-of-light-review"
+    },
+    {
+      "name": "Citizens of Earth",
+      "score": "6.5",
+      "description":
+        "Citizens of Earth is a quirky game with its heart in the right place and its head in the clouds.",
+      "oneword": "Okay",
+      "platforms": ["PC", "Wii U", "3DS", "PS4", "Vita"],
+      "url": "http://www.ign.com/articles/2015/01/22/citizens-of-earth-review"
+    },
+    {
+      "name": "City of Brass",
+      "score": "4.0",
+      "description":
+        "Clumsy, maddeningly difficult first-person rogue-lite City of Brass will exhaust the patience of all but the most obstinate gluttons for suffering.",
+      "oneword": "Bad",
+      "platforms": ["Xbox One", "PC", "PS4"],
+      "url": "http://www.ign.com/articles/2018/05/09/city-of-brass-review"
+    },
+    {
+      "name": "Contrast",
+      "score": "7.5",
+      "description":
+        "Contrast is a game full of heart, beauty, and at least a few excellent puzzles.",
+      "oneword": "Good",
+      "platforms": ["Xbox 360", "PS4", "PS3", "Xbox One", "PC"],
+      "url": "http://www.ign.com/articles/2013/11/13/contrast-review"
+    },
+    {
+      "name": "Costume Quest 2 Console",
+      "score": "7.8",
+      "description":
+        "Costume Quest 2 improves on the first's combat and funny campaign, but the health and navigation systems need a revamp.",
+      "oneword": "Good",
+      "platforms": ["Xbox 360", "Xbox One", "Wii U"],
+      "url":
+        "http://www.ign.com/articles/2014/10/30/costume-quest-2-console-review"
+    },
+    {
+      "name": "CounterSpy",
+      "score": "7.0",
+      "description":
+        "Cold War-esque side-scroller CounterSpy has a great concept and a lot heart, and also a few issues worth noting.",
+      "oneword": "Good",
+      "platforms": ["PS3", "Vita", "iPhone", "PS4", "Android"],
+      "url": "http://www.ign.com/articles/2014/08/19/counterspy-review"
+    },
+    {
+      "name": "Crash Bandicoot N. Sane Trilogy",
+      "score": "8.5",
+      "description":
+        "Largely standing the test of time mechanically, Crash\u2019s first outings get an N. credible facelift in this collection.",
+      "oneword": "Great",
+      "platforms": ["PC", "Switch", "PS4", "Xbox One"],
+      "url":
+        "http://www.ign.com/articles/2017/06/29/crash-bandicoot-n-sane-trilogy-review"
+    },
+    {
+      "name": "Crimsonland",
+      "score": "7.5",
+      "description":
+        "Crimsonland\u2019s shooting is repetitive, yet addictive, especially when you're keeping an eye on the online leaderboards.",
+      "oneword": "Good",
+      "platforms": ["PS4", "Vita", "PC", "PS3", "Xbox One"],
+      "url": "http://www.ign.com/articles/2014/07/17/crimsonland-review"
+    },
+    {
+      "name": "Crisis on the Planet of the Apes VR",
+      "score": "3.0",
+      "description":
+        "Simian VR shooter Crisis On the Planet of the Apes is repetitive, faulty, and more dated than the original Charlton Heston movie.",
+      "oneword": "Awful",
+      "platforms": ["PC", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2018/04/11/crisis-on-the-planet-of-the-apes-vr-review"
+    },
+    {
+      "name": "DC Universe Online",
+      "score": "8.0",
+      "description":
+        "DC Universe Online is the best super-hero MMO out there and well worth the free download on PS4.",
+      "oneword": "Great",
+      "platforms": ["PS4", "PS3", "PC", "Xbox One"],
+      "url":
+        "http://www.ign.com/articles/2013/12/02/dc-universe-online-review-2"
+    },
+    {
+      "name": "Danganronpa V3",
+      "score": "8.0",
+      "description":
+        "Danganronpa V3\u2019s mix of murder mystery and character interaction makes for a wild, engaging, and unforgettable game.",
+      "oneword": "Great",
+      "platforms": ["Vita", "PS4", "PC"],
+      "url": "http://www.ign.com/articles/2017/09/22/danganronpa-v3-review"
+    },
+    {
+      "name": "Danger Zone",
+      "score": "6.9",
+      "description":
+        "For better and for worse, Danger Zone is a no-frills resurrection of Burnout\u2019s Crash mode, priced accordingly.",
+      "oneword": "Okay",
+      "platforms": ["PC", "Xbox One", "PS4"],
+      "url": "http://www.ign.com/articles/2017/06/01/danger-zone-review"
+    },
+    {
+      "name": "Dark Souls 3",
+      "score": "9.5",
+      "description":
+        "Dark Souls 3's incredible world and awe-inspiring weapon arts make it the fiercest installment yet.",
+      "oneword": "Amazing",
+      "platforms": ["Xbox One", "PC", "PS4"],
+      "url": "http://www.ign.com/articles/2016/04/04/dark-souls-3-review"
+    },
+    {
+      "name": "Dark Souls 3: Ashes of Ariandel",
+      "score": "7.8",
+      "description":
+        "Dark Souls 3: Ashes of Ariandel provides a good challenge in both PvP and PvE, but the latter ends quickly.",
+      "oneword": "Good",
+      "platforms": ["PC", "Xbox One", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2016/10/24/dark-souls-3-ashes-of-ariandel-review"
+    },
+    {
+      "name": "Dark Souls 3: The Ringed City",
+      "score": "8.0",
+      "description":
+        "Dark Souls 3: The Ringed City's fun twists and turns and terrifying bosses are a satisfying conclusion to the trilogy.",
+      "oneword": "Great",
+      "platforms": ["PC", "PS4", "Xbox One"],
+      "url":
+        "http://www.ign.com/articles/2017/03/27/dark-souls-3-the-ringed-city-review"
+    },
+    {
+      "name": "Dark Souls Remastered",
+      "score": "9.0",
+      "description":
+        "The power of current-generation consoles gives Dark Souls Remastered the smooth framerate it always needed.",
+      "oneword": "Amazing",
+      "platforms": ["Xbox One", "Switch", "PC", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2018/05/23/dark-souls-remastered-review"
+    },
+    {
+      "name": "Darkest Dungeon",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": null,
+      "url": "http://www.ign.com/articles/2016/01/26/darkest-dungeon-review"
+    },
+    {
+      "name": "Darksiders 2: Deathinitive Edition",
+      "score": "7.5",
+      "description":
+        "If you haven't played Darksiders 2, the Deathinitive Edition is the best way to do so.",
+      "oneword": "Good",
+      "platforms": ["Xbox One", "PS4", "PC"],
+      "url":
+        "http://www.ign.com/articles/2015/11/02/darksiders-2-deathinitive-edition-review"
+    },
+    {
+      "name": "Daylight",
+      "score": "5.8",
+      "description":
+        "Daylight's horror atmosphere starts strong, but repetitive corridors and nonthreatening enemies squander it quickly.",
+      "oneword": "Mediocre",
+      "platforms": ["PC", "PS4"],
+      "url": "http://www.ign.com/articles/2014/04/29/daylight-review"
+    },
+    {
+      "name": "Dead Island Definitive Collection",
+      "score": "7.0",
+      "description":
+        "The Dead Island Definitive Collection looks better than ever, but leaves room for improvement in areas like frame rate.",
+      "oneword": "Good",
+      "platforms": ["Xbox One", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2016/06/01/dead-island-definitive-collection-review"
+    },
+    {
+      "name": "Dead Nation: Apocalypse Edition",
+      "score": "8.0",
+      "description":
+        "Dead Nation brings Housemarque's acclaimed PS3 game to PlayStation 4. And it's as fun -- and difficult -- as ever.",
+      "oneword": "Great",
+      "platforms": ["PS4"],
+      "url":
+        "http://www.ign.com/articles/2014/04/03/dead-nation-apocalypse-edition-review"
+    },
+    {
+      "name": "Dead Rising Triple Pack",
+      "score": "6.5",
+      "description":
+        "The Dead Rising Triple Pack is the best looking console versions of these games to date but not much more than that.",
+      "oneword": "Okay",
+      "platforms": ["Xbox One", "PS4", "PC"],
+      "url":
+        "http://www.ign.com/articles/2016/09/13/dead-rising-triple-pack-review"
+    },
+    {
+      "name": "Dead Star",
+      "score": "7.1",
+      "description":
+        "Shifty matchmaking can lead to some frustrating experiences, but overall, Dead Star is a fun MOBA/twin-stick mash-up.",
+      "oneword": "Good",
+      "platforms": ["PC", "PS4"],
+      "url": "http://www.ign.com/articles/2016/04/08/dead-star-review"
+    },
+    {
+      "name": "Dead or Alive 5: Last Round",
+      "score": "7.0",
+      "description":
+        "Last Round has all of Dead or Alive 5's fighting prowess, but an overload of glitches and fan service hold it back.",
+      "oneword": "Good",
+      "platforms": ["Xbox One", "PC", "PS3", "PS4", "Xbox 360"],
+      "url":
+        "http://www.ign.com/articles/2015/02/23/dead-or-alive-5-last-round-review"
+    },
+    {
+      "name": "Destiny",
+      "score": "7.8",
+      "description":
+        "Destiny looks and plays wonderfully, but too many of the other promises it makes get left unfulfilled.",
+      "oneword": "Good",
+      "platforms": ["PS3", "Xbox One", "Xbox 360", "PS4"],
+      "url": "http://www.ign.com/articles/2014/09/03/destiny-review"
+    },
+    {
+      "name": "Destiny 2",
+      "score": "8.5",
+      "description":
+        "Destiny 2's excellent co-op and competitive shooting, rewarding loot, and strong social elements will keep us playing.",
+      "oneword": "Great",
+      "platforms": ["PC", "Xbox One", "PS4"],
+      "url": "http://www.ign.com/articles/2017/09/15/destiny-2-review"
+    },
+    {
+      "name": "Destiny 2: Curse of Osiris",
+      "score": "5.5",
+      "description":
+        "The Curse of Osiris' poor campaign and mostly weak additions do little to address the problems with Destiny 2.",
+      "oneword": "Mediocre",
+      "platforms": ["Xbox One", "PC", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2017/12/10/destiny-2-curse-of-osiris-review"
+    },
+    {
+      "name": "Destiny: House of Wolves",
+      "score": "7.5",
+      "description":
+        "Destiny: House of Wolves is a step in the right direction for Bungie's online shooter.",
+      "oneword": "Good",
+      "platforms": ["Xbox One", "PS3", "PS4", "Xbox 360"],
+      "url":
+        "http://www.ign.com/articles/2015/05/28/destiny-house-of-wolves-review-2"
+    },
+    {
+      "name": "Destiny: Rise of Iron",
+      "score": "6.2",
+      "description":
+        "Destiny: Rise of Iron brings more of the same without improving on what came before it.",
+      "oneword": "Okay",
+      "platforms": ["Xbox One", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2016/09/27/destiny-rise-of-iron-review"
+    },
+    {
+      "name": "Destiny: The Dark Below",
+      "score": "6.0",
+      "description":
+        "Short on content, and long on grinding, The Dark Below fails to meaningfully enhance the Destiny experience.",
+      "oneword": "Okay",
+      "platforms": ["Xbox 360", "PS3", "PS4", "Xbox One"],
+      "url":
+        "http://www.ign.com/articles/2014/12/18/destiny-the-dark-below-review"
+    },
+    {
+      "name": "Destiny: The Taken King",
+      "score": "9.0",
+      "description":
+        "Destiny: The Taken King is an awesome upgrade with many quests to keep me busy long after the campaign has ended.",
+      "oneword": "Amazing",
+      "platforms": ["Xbox One", "PS3", "Xbox 360", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2015/09/15/destiny-the-taken-king-review"
+    },
+    {
+      "name": "Detroit: Become Human",
+      "score": "8.0",
+      "description":
+        "Detroit: Become Human is a wonderfully silly interactive drama that meaningfully bends to your will.",
+      "oneword": "Great",
+      "platforms": ["PS4"],
+      "url":
+        "http://www.ign.com/articles/2018/05/24/detroit-become-human-review"
+    },
+    {
+      "name": "Deus Ex Mankind Divided: System Rift",
+      "score": "7.5",
+      "description":
+        "System Rift suggests a cool new direction for  Deus Ex: Mankind Divided, but it doesn't tell a full story of its own.",
+      "oneword": "Good",
+      "platforms": ["PS4", "Xbox One", "PC"],
+      "url":
+        "http://www.ign.com/articles/2016/09/27/deus-ex-mankind-divided-system-rift-review"
+    },
+    {
+      "name": "Deus Ex: Mankind Divided",
+      "score": "9.2",
+      "description":
+        "Layered, intelligent, and impeccably designed, Deus Ex: Mankind Divided's gameplay rewards curiosity and creativity.",
+      "oneword": "Amazing",
+      "platforms": ["PS4", "Xbox One", "PC"],
+      "url":
+        "http://www.ign.com/articles/2016/08/19/deus-ex-mankind-divided-review"
+    },
+    {
+      "name": "Devil May Cry 4: Special Edition",
+      "score": "7.5",
+      "description":
+        "Devil May Cry 4: Special Edition's new playable characters are fun, but the flaws of the original game remain intact.",
+      "oneword": "Good",
+      "platforms": ["Xbox One", "PC", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2015/06/23/devil-may-cry-4-special-edition-review"
+    },
+    {
+      "name": "Diablo 3: Ultimate Evil Edition",
+      "score": "9.2",
+      "description":
+        "Flush with content and prettier than ever, Ultimate Evil Edition is the best way to experience Diablo 3.",
+      "oneword": "Amazing",
+      "platforms": ["PC", "Xbox One", "PS3", "Xbox 360", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2014/08/14/diablo-3-reaper-of-souls-ultimate-evil-edition-review"
+    },
+    {
+      "name": "Dirt 4",
+      "score": "9.2",
+      "description":
+        "Accessible yet tough and grimy yet gorgeous, Dirt 4 sets a new standard in rally racing. Absolutely stonking brilliant.",
+      "oneword": "Amazing",
+      "platforms": ["PC", "Xbox One", "PS4"],
+      "url": "http://www.ign.com/articles/2017/06/06/dirt-4-review"
+    },
+    {
+      "name": "Dirt Rally",
+      "score": "8.9",
+      "description":
+        "Dirt Rally is a brilliant sim that looks, feels, and sounds absolutely outstanding, but it won\u2019t tolerate the timid.",
+      "oneword": "Great",
+      "platforms": ["PC", "Linux", "Xbox One", "PS4"],
+      "url": "http://www.ign.com/articles/2015/12/21/dirt-rally-review"
+    },
+    {
+      "name": "Disgaea 5: Alliance of Vengeance",
+      "score": "8.7",
+      "description":
+        "Though it still  feels a little familiar, Disgaea 5 freshens up its excellent gameplay with some fun new features.",
+      "oneword": "Great",
+      "platforms": ["PS4", "Switch", "PC"],
+      "url":
+        "http://www.ign.com/articles/2015/10/06/disgaea-5-alliance-of-vengeance-review"
+    },
+    {
+      "name": "Dishonored 2",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": null,
+      "url": "http://www.ign.com/articles/2016/11/13/dishonored-2-review"
+    },
+    {
+      "name": "Dishonored Definitive Edition",
+      "score": "8.0",
+      "description":
+        "Dishonored Definitive Edition doesn\u2019t live up to its name, but the core game and its DLC are still stylish and fun.",
+      "oneword": "Great",
+      "platforms": ["Xbox One", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2015/08/27/dishonored-definitive-edition-review"
+    },
+    {
+      "name": "Dishonored: Death of the Outsider",
+      "score": "8.4",
+      "description":
+        "Death of the Outsider is a fitting end to a great story that shakes things up but still scratches the Dishonored itch.",
+      "oneword": "Great",
+      "platforms": ["PC", "Xbox One", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2017/09/16/dishonored-death-of-the-outsider-review"
+    },
+    {
+      "name": "Disney Afternoon Collection",
+      "score": "7.0",
+      "description":
+        "The Disney Afternoon Collection resurrects a few NES classics (and some not-so-classics) with a great rewind button.",
+      "oneword": "Good",
+      "platforms": ["PS4", "PC", "Xbox One"],
+      "url":
+        "http://www.ign.com/articles/2017/04/18/disney-afternoon-collection-review"
+    },
+    {
+      "name": "Disney Infinity 2.0: Marvel Super Heroes",
+      "score": "6.8",
+      "description":
+        "Disney Infinity 2.0 has a lot of improvements, Toy Box is still great, but it doesn't feel like a major upgrade.",
+      "oneword": "Okay",
+      "platforms": ["Wii U"],
+      "url":
+        "http://www.ign.com/articles/2014/09/19/disney-infinity-20-marvel-super-heroes-review"
+    },
+    {
+      "name": "Disney Infinity 3.0",
+      "score": "8.9",
+      "description":
+        "Disney Infinity 3.0 is the most polished, cohesive and enjoyable game in the series so far.",
+      "oneword": "Great",
+      "platforms": ["PS4", "Xbox One", "Xbox 360", "Android"],
+      "url": "http://www.ign.com/articles/2015/08/28/disney-infinity-30-review"
+    },
+    {
+      "name": "Dissidia Final Fantasy NT",
+      "score": "6.9",
+      "description":
+        "Dissidia Final Fantasy NT is a strange game. When its team-based battles work it can be great, but it's hard to follow.",
+      "oneword": "Okay",
+      "platforms": ["PS4"],
+      "url":
+        "http://www.ign.com/articles/2018/02/06/dissidia-final-fantasy-nt-review"
+    },
+    {
+      "name": "Divide",
+      "score": "5.5",
+      "description":
+        "Divide is a buggy twin-stick isometric RPG with poor variety, but a cool story to tell.",
+      "oneword": "Mediocre",
+      "platforms": ["PC", "PS4"],
+      "url": "http://www.ign.com/articles/2017/02/03/divide-review"
+    },
+    {
+      "name": "Divinity: Original Sin Enhanced Edition",
+      "score": "9.0",
+      "description":
+        "Enhanced Edition brings all the depth and character of Divinity: Original Sin to the PlayStation 4 and Xbox One.",
+      "oneword": "Amazing",
+      "platforms": ["PC", "Mac", "Xbox One", "PS4", "Linux"],
+      "url":
+        "http://www.ign.com/articles/2015/10/26/divinity-original-sin-enhanced-edition-review"
+    },
+    {
+      "name": "Dmc Devil May Cry: Definitive Edition",
+      "score": "8.9",
+      "description":
+        "DmC Devil May Cry: Definitive Edition brings the same great game to PlayStation 4 and Xbox One.",
+      "oneword": "Great",
+      "platforms": ["PS4", "Xbox One"],
+      "url":
+        "http://www.ign.com/articles/2015/03/09/dmc-devil-may-cry-definitive-edition-review"
+    },
+    {
+      "name": "Doki-Doki Universe",
+      "score": "7.0",
+      "description":
+        "Doki-Doki Universe is unique and fun, even if it does get quite repetitive.",
+      "oneword": "Good",
+      "platforms": ["PS3", "Vita", "PS4"],
+      "url": "http://www.ign.com/articles/2013/12/12/doki-doki-universe-review"
+    },
+    {
+      "name": "Don't Starve PS4",
+      "score": "7.5",
+      "description":
+        "Don't Starve is a beautiful take on Minecraft's formula that ultimately left me feeling a bit too empty.",
+      "oneword": "Good",
+      "platforms": ["PC", "PS4", "Mac"],
+      "url": "http://www.ign.com/articles/2014/01/13/dont-starve-ps4-review-2"
+    },
+    {
+      "name": "Doom VFR",
+      "score": "8.0",
+      "description":
+        "Doom VFR is a brave shooter that proves that VR games don\u2019t have to be conservative with movement to work.",
+      "oneword": "Great",
+      "platforms": ["PC", "PS4"],
+      "url": "http://www.ign.com/articles/2017/12/05/doom-vfr-review"
+    },
+    {
+      "name": "Double Dragon 4",
+      "score": "3.5",
+      "description":
+        "Double Dragon 4 is a retro brawler that leans too heavily on elements that haven't aged at all gracefully.",
+      "oneword": "Awful",
+      "platforms": ["PC", "Switch", "PS4"],
+      "url": "http://www.ign.com/articles/2017/02/01/double-dragon-4-review"
+    },
+    {
+      "name": "Dragon Age: Inquisition",
+      "score": "8.8",
+      "description":
+        "Dragon Age: Inquisition doesn't spin a great tale, but it brings the series closer to its roots with deep RPG systems.",
+      "oneword": "Great",
+      "platforms": ["PS3", "PC", "Xbox 360", "Xbox One", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2014/11/11/dragon-age-inquisition-review"
+    },
+    {
+      "name": "Dragon Age: Inquisition - The Descent",
+      "score": "6.3",
+      "description":
+        "The Descent is a challenging yet unsatisfying experience that raises more questions than it answers.",
+      "oneword": "Okay",
+      "platforms": ["Xbox One", "PS4", "PC"],
+      "url":
+        "http://www.ign.com/articles/2015/08/13/dragon-age-inquisition-the-descent-review"
+    },
+    {
+      "name": "Dragon Age: Inquisition - Trespasser",
+      "score": "7.0",
+      "description": "Trespasser is a decent send-off for the Inquisition.",
+      "oneword": "Good",
+      "platforms": ["Xbox One", "PC", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2015/09/10/dragon-age-inquisition-trespasser-review"
+    },
+    {
+      "name": "Dragon Ball FighterZ",
+      "score": "8.5",
+      "description":
+        "Dragon Ball FighterZ\u2019s pairing of DBZ and Arc System Works is a match made in fighting game heaven.",
+      "oneword": "Great",
+      "platforms": ["Xbox One", "PS4", "PC", "Switch"],
+      "url":
+        "http://www.ign.com/articles/2018/01/22/dragon-ball-fighterz-review"
+    },
+    {
+      "name": "Dragon Ball Xenoverse 2",
+      "score": "7.5",
+      "description":
+        "Dragon Ball Xenoverse 2 is an ambitious , if rough-edged experience, with deceptively deep RPG and brawling elements.",
+      "oneword": "Good",
+      "platforms": ["Switch", "PC", "Xbox One", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2016/10/28/dragon-ball-xenoverse-2-review"
+    },
+    {
+      "name": "Dragon Quest Builders",
+      "score": "8.9",
+      "description":
+        "Dragon Quest Builders admirably mixes the series' RPG traditions with Minecraft.",
+      "oneword": "Great",
+      "platforms": ["Switch", "PS4", "PS3", "Vita"],
+      "url":
+        "http://www.ign.com/articles/2016/10/07/dragon-quest-builders-review"
+    },
+    {
+      "name": "Dragon Quest Heroes 2",
+      "score": "7.5",
+      "description":
+        "Dragon Quest Heroes 2 brings back some old-school DQ flavor but stumbles over some dull non-combat elements.",
+      "oneword": "Good",
+      "platforms": ["PS3", "PC", "Vita", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2017/04/24/dragon-quest-heroes-2-review"
+    },
+    {
+      "name": "Dragon Quest Heroes: The World Tree's Woe and the Blight Below",
+      "score": "6.2",
+      "description":
+        "The joy of fighting defenseless creatures in Dragon Quest Heroes only lasts a short while.",
+      "oneword": "Okay",
+      "platforms": ["PS4", "PS3"],
+      "url":
+        "http://www.ign.com/articles/2015/10/14/dragon-quest-heroes-the-world-trees-woe-and-the-blight-below-review"
+    },
+    {
+      "name": "Drawn to Death",
+      "score": "4.0",
+      "description":
+        "Drawn to Death is a mean spirited, misguided mess that falls short mechanically and wants you to feel bad about yourself.",
+      "oneword": "Bad",
+      "platforms": ["PS4"],
+      "url": "http://www.ign.com/articles/2017/04/08/drawn-to-death-review"
+    },
+    {
+      "name": "Dreadnought",
+      "score": "7.4",
+      "description":
+        "Dreadnought's team-based spaceship action is slow paced but fun, at least until the progress slows to a crawl.",
+      "oneword": "Good",
+      "platforms": ["PS4", "PC"],
+      "url": "http://www.ign.com/articles/2017/12/21/dreadnought-review"
+    },
+    {
+      "name": "Driveclub",
+      "score": "7.9",
+      "description":
+        "Fast, beautiful, and accessible, but a more modest, conventional arcade racer than its sprawling, open-world peers.",
+      "oneword": "Good",
+      "platforms": ["PS4"],
+      "url": "http://www.ign.com/articles/2014/10/07/driveclub-review"
+    },
+    {
+      "name": "Driveclub VR",
+      "score": "5.9",
+      "description":
+        "Driveclub VR helps demonstrate the potential of VR racing but it's definitely not the best way to play Driveclub.",
+      "oneword": "Mediocre",
+      "platforms": ["PS4"],
+      "url": "http://www.ign.com/articles/2016/10/20/driveclub-vr-review"
+    },
+    {
+      "name": "Dying Light",
+      "score": "8.5",
+      "description":
+        "High-speed parkour and gruesome zombie massacres make Dying Light a blast, even if the story's just okay.",
+      "oneword": "Great",
+      "platforms": ["PS4", "PC", "Xbox One"],
+      "url": "http://www.ign.com/articles/2015/01/26/dying-light-review"
+    },
+    {
+      "name": "Dynasty Warriors 9",
+      "score": "5.8",
+      "description":
+        "Dynasty Warriors 9 moves the franchise in an ambitious new direction with a massive open world to explore, but that doesn\u2019t mean it\u2019s better.",
+      "oneword": "Mediocre",
+      "platforms": ["PC", "PS4", "Xbox One"],
+      "url": "http://www.ign.com/articles/2018/02/13/dynasty-warriors-9-review"
+    },
+    {
+      "name": "EA Sports UFC",
+      "score": "6.8",
+      "description":
+        "As great as it looks, EA Sports UFC fails to capture the high stakes excitement that makes MMA such a great sport.",
+      "oneword": "Okay",
+      "platforms": ["Xbox One", "PS4"],
+      "url": "http://www.ign.com/articles/2014/06/19/ea-sports-ufc-review"
+    },
+    {
+      "name": "EA Sports UFC 2",
+      "score": "6.4",
+      "description":
+        "EA Sports' UFC 2 has some technical skill, but is missing the heart of the sport.",
+      "oneword": "Okay",
+      "platforms": ["Xbox One", "PS4"],
+      "url": "http://www.ign.com/articles/2016/03/17/ea-sports-ufc-2-review"
+    },
+    {
+      "name": "EVE Valkyrie",
+      "score": "7.9",
+      "description":
+        "EVE Valkyrie benefits from VR's effect on its spacefighter combat, but its progression is stunted by microtransactions.",
+      "oneword": "Good",
+      "platforms": ["PC", "PS4"],
+      "url": "http://www.ign.com/articles/2016/10/14/eve-valkyrie-review"
+    },
+    {
+      "name": "Eagle Flight",
+      "score": "7.6",
+      "description":
+        "Eagle Flight surprised us with its comfortable and intuitive VR flight. It's slim on content, but fun while it lasts.",
+      "oneword": "Good",
+      "platforms": ["PS4", "PC"],
+      "url": "http://www.ign.com/articles/2016/11/14/eagle-flight-review"
+    },
+    {
+      "name": "Elite Dangerous PS4",
+      "score": "7.5",
+      "description":
+        "Elite Dangerous has some boring stretches, but if you're in this space sim for the long haul it's rewarding.",
+      "oneword": "Good",
+      "platforms": ["PS4", "Xbox One", "PC", "Mac"],
+      "url": "http://www.ign.com/articles/2017/07/07/elite-dangerous-ps4-review"
+    },
+    {
+      "name": "Enter the Gungeon",
+      "score": "8.5",
+      "description":
+        "Enter the Gungeon's roguelike elements and vast array of crazy weapons keep it entertaining for the long haul.",
+      "oneword": "Great",
+      "platforms": ["Switch", "PC", "PS4", "Xbox One"],
+      "url": "http://www.ign.com/articles/2016/04/05/enter-the-gungeon-review"
+    },
+    {
+      "name": "Entwined",
+      "score": "6.0",
+      "description":
+        "PS4's Entwined doesn't fully deliver on its promise. It's beautiful, but also frustrating.",
+      "oneword": "Okay",
+      "platforms": ["PS4", "Vita", "PS3"],
+      "url": "http://www.ign.com/articles/2014/06/18/entwined-review"
+    },
+    {
+      "name": "Escape Plan PS4",
+      "score": "8.0",
+      "description":
+        "PlayStation 4\u2019s iteration of Escape Plan is just as fun as it was on Vita, and worthy of a purchase.",
+      "oneword": "Great",
+      "platforms": ["PS4", "Vita"],
+      "url": "http://www.ign.com/articles/2013/12/04/escape-plan-ps4-review"
+    },
+    {
+      "name": "Everybody\u2019s Gone to the Rapture",
+      "score": "8.5",
+      "description":
+        "Everybody's Gone to the Rapture is a beautiful, heart-breaking journey into the end of the world.",
+      "oneword": "Great",
+      "platforms": ["PS4", "PC"],
+      "url":
+        "http://www.ign.com/articles/2015/08/10/everybodys-gone-to-the-rapture-review"
+    },
+    {
+      "name": "Evolve",
+      "score": "9.0",
+      "description":
+        "Tactically deep, and bursting with character, Evolve offers a level of nuance rarely found in multiplayer shooters.",
+      "oneword": "Amazing",
+      "platforms": ["PC", "PS4", "Xbox One"],
+      "url": "http://www.ign.com/articles/2015/02/11/evolve-review"
+    },
+    {
+      "name": "Expand",
+      "score": "8.0",
+      "description":
+        "Expand is a triumph of visual design and scoring that also boasts some clever design ideas.",
+      "oneword": "Great",
+      "platforms": ["Linux", "PC", "Mac", "PS4"],
+      "url": "http://www.ign.com/articles/2015/10/01/expand-review"
+    },
+    {
+      "name": "F1 2015 PlayStation 4",
+      "score": "5.8",
+      "description":
+        "With few features, annoying AI, and broken multiplayer, it's hard to appreciate F1 2015's improved driving.",
+      "oneword": "Mediocre",
+      "platforms": ["Xbox One", "Linux", "PC", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2015/07/29/f1-2015-playstation-4-review"
+    },
+    {
+      "name": "F1 2016",
+      "score": "8.8",
+      "description":
+        "Deep, nuanced, and packed with fan service, F1 2016 is definitively the best Formula One game from Codemasters to date.",
+      "oneword": "Great",
+      "platforms": ["PS4", "Xbox One", "Mac", "PC", "iPhone"],
+      "url": "http://www.ign.com/articles/2016/08/23/f1-2016-review"
+    },
+    {
+      "name": "F1 2017",
+      "score": "8.9",
+      "description":
+        "A detailed and faithful ode to F1, F1 2017 is about as good a simulation of a single, modern motorsport as you can get.",
+      "oneword": "Great",
+      "platforms": ["PC", "PS4", "Xbox One", "Linux", "Mac"],
+      "url": "http://www.ign.com/articles/2017/08/24/f1-2017-review"
+    },
+    {
+      "name": "FIFA 14",
+      "score": "9.1",
+      "description":
+        "FIFA 14 on next-gen is a more refined, polished, and pleasing version of a brilliant sports game. Ready for extra time?",
+      "oneword": "Amazing",
+      "platforms": ["Xbox One", "PS4", "PS3", "PC", "Xbox 360"],
+      "url": "http://www.ign.com/articles/2013/12/02/fifa-14-review"
+    },
+    {
+      "name": "FIFA 15 PS4/Xbox One",
+      "score": "8.3",
+      "description":
+        "FIFA 15 is still one of the best sports simulations around, with superb animation and big-match atmosphere.",
+      "oneword": "Great",
+      "platforms": ["PS4", "Xbox One", "PS3", "Xbox 360", "PC"],
+      "url": "http://www.ign.com/articles/2014/09/23/fifa-15-ps4xbox-one-review"
+    },
+    {
+      "name": "FIFA 17",
+      "score": "8.4",
+      "description":
+        "A terrific story mode and improved graphics make for a better game than last year though it\u2019s behind PES on the pitch.",
+      "oneword": "Great",
+      "platforms": ["PC", "PS3", "Xbox 360", "Xbox One", "PS4"],
+      "url": "http://www.ign.com/articles/2016/09/21/fifa-17-review"
+    },
+    {
+      "name": "FIFA 18",
+      "score": "8.1",
+      "description":
+        "A sharp focus on attack but few new additions make this a spectacular if somewhat shallow experience.",
+      "oneword": "Great",
+      "platforms": ["PS3", "Xbox 360", "PC", "PS4", "Xbox One"],
+      "url": "http://www.ign.com/articles/2017/09/20/fifa-18-review"
+    },
+    {
+      "name": "FIFA Soccer 16",
+      "score": "7.8",
+      "description":
+        "Lacking fluidity and dynamism, football's reigning king has lost its crown.",
+      "oneword": "Good",
+      "platforms": ["PS4", "Xbox 360", "Xbox One", "PC", "PS3"],
+      "url": "http://www.ign.com/articles/2015/09/21/fifa-soccer-16-review"
+    },
+    {
+      "name": "Fallout 4",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": null,
+      "url": "http://www.ign.com/articles/2015/11/09/fallout-4-review"
+    },
+    {
+      "name": "Far Cry 4",
+      "score": "8.5",
+      "description":
+        "Far Cry 4 has weak characters, but its campaign, co-op, and competitive multiplayer feature incredibly fun freedom.",
+      "oneword": "Great",
+      "platforms": ["PS3", "Xbox 360", "Xbox One", "PC", "PS4"],
+      "url": "http://www.ign.com/articles/2014/11/14/far-cry-4-review"
+    },
+    {
+      "name": "Far Cry 4: Valley of the Yetis DLC",
+      "score": "7.6",
+      "description":
+        "FC4\u2019s Valley of the Yeti DLC adds some monstrous fun and desperate defense missions.",
+      "oneword": "Good",
+      "platforms": ["PC", "Xbox 360", "Xbox One", "PS3", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2015/03/09/far-cry-4-valley-of-the-yetis-dlc-review"
+    },
+    {
+      "name": "Far Cry 5",
+      "score": "8.9",
+      "description":
+        "Far Cry 5 is another wide-open playground with all the necessary ingredients for causing a real ruckus: loads of enemies and allies, temperamental wildlife, and plenty of explosions.",
+      "oneword": "Great",
+      "platforms": ["PS4", "Xbox One", "PC"],
+      "url": "http://www.ign.com/articles/2018/03/27/far-cry-5-review"
+    },
+    {
+      "name": "Far Cry 5: Hours of Darkness DLC",
+      "score": "7.0",
+      "description":
+        "Far Cry 5: Hours of Darkness works a few interesting ideas into its brief jaunt to Vietnam.",
+      "oneword": "Good",
+      "platforms": ["Xbox One", "PS4", "PC"],
+      "url":
+        "http://www.ign.com/articles/2018/06/05/far-cry-5-hours-of-darkness-dlc-review"
+    },
+    {
+      "name": "Far Cry Primal",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": null,
+      "url": "http://www.ign.com/articles/2016/02/22/far-cry-primal-review"
+    },
+    {
+      "name": "Farpoint",
+      "score": "7.5",
+      "description":
+        "Fantastic gunplay and freedom of movement sets PSVR's Farpoint apart from most VR shooting galleries.",
+      "oneword": "Good",
+      "platforms": ["PS4"],
+      "url": "http://www.ign.com/articles/2017/05/17/farpoint-review"
+    },
+    {
+      "name": "Fe",
+      "score": "6.5",
+      "description":
+        "Fe is a lovely platformer with wonderful music, but it fails to do anything interesting with its best ideas.",
+      "oneword": "Okay",
+      "platforms": ["PS4", "Switch", "PC", "Xbox One"],
+      "url": "http://www.ign.com/articles/2018/02/15/fe-review"
+    },
+    {
+      "name": "Fez PC, PS3, PS4, & Vita",
+      "score": "9.5",
+      "description":
+        "Fez is a brilliant, beautiful platformer. Play it immediately.",
+      "oneword": "Amazing",
+      "platforms": ["Xbox 360", "Vita"],
+      "url": "http://www.ign.com/articles/2013/05/01/fez-review-pc"
+    },
+    {
+      "name": "Final Fantasy Type-0 HD",
+      "score": "8.0",
+      "description":
+        "Final Fantasy Type-0\u2019s gritty tone and fast action is a welcome change of pace.",
+      "oneword": "Great",
+      "platforms": ["PC", "PS4", "Xbox One"],
+      "url":
+        "http://www.ign.com/articles/2015/03/16/final-fantasy-type-0-hd-review"
+    },
+    {
+      "name": "Final Fantasy X / X-2 HD Remaster PS4",
+      "score": "9.3",
+      "description":
+        "Upgraded HD visuals make Final Fantasy X/X-2 HD Remaster on PS4 the best way to experience the world of Spira.",
+      "oneword": "Amazing",
+      "platforms": ["Vita", "PS4", "PC", "PS3"],
+      "url":
+        "http://www.ign.com/articles/2015/05/12/final-fantasy-x-x-2-hd-remaster-ps4-review"
+    },
+    {
+      "name": "Final Fantasy XII: The Zodiac Age",
+      "score": "8.8",
+      "description":
+        "Final Fantasy XII: The Zodiac Age offers a new look and a noteworthy gameplay revamp of an RPG classic.",
+      "oneword": "Great",
+      "platforms": ["PS4", "PC"],
+      "url":
+        "http://www.ign.com/articles/2017/07/10/final-fantasy-xii-the-zodiac-age-review"
+    },
+    {
+      "name": "Final Fantasy XIV: A Realm Reborn",
+      "score": "8.6",
+      "description":
+        "Final Fantasy XIV: A Realm Reborn has launched with a great class system and amazing promise",
+      "oneword": "Great",
+      "platforms": ["PC", "PS3", "Mac", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2013/09/11/final-fantasy-xiv-a-realm-reborn-review"
+    },
+    {
+      "name": "Final Fantasy XV",
+      "score": "8.2",
+      "description":
+        "Final Fantasy XV takes some risks that don't always pay off, but the strong quartet of heroes give it tons of heart.",
+      "oneword": "Great",
+      "platforms": ["PS4", "Xbox One", "PC"],
+      "url": "http://www.ign.com/articles/2016/11/28/final-fantasy-xv-review"
+    },
+    {
+      "name": "Firewatch",
+      "score": "9.3",
+      "description":
+        "Firewatch is among the best of the \"walking simulators\" thanks to stellar writing, art direction, and voice acting.",
+      "oneword": "Amazing",
+      "platforms": ["Mac"],
+      "url": "http://www.ign.com/articles/2016/02/08/firewatch-review"
+    },
+    {
+      "name": "FlatOut 4: Total Insanity",
+      "score": "6.6",
+      "description":
+        "FlatOut 4: Total Insanity is a respectable franchise rescue mission but it needs some fine tuning and some extra grunt.",
+      "oneword": "Okay",
+      "platforms": ["PS4", "Xbox One", "PC"],
+      "url":
+        "http://www.ign.com/articles/2017/03/17/flatout-4-total-insanity-review"
+    },
+    {
+      "name": "Flower PS4",
+      "score": "9.5",
+      "description":
+        "Flower on PS4 is even better and more beautiful than the phenomenal, unforgettable original.",
+      "oneword": "Amazing",
+      "platforms": ["Vita", "PS4", "iPhone", "PS3"],
+      "url": "http://www.ign.com/articles/2013/11/13/flower-ps4-review"
+    },
+    {
+      "name": "For Honor",
+      "score": "8.0",
+      "description":
+        "Despite dents in the armor, For Honor has one of the most complete melee combat systems I've ever experienced.",
+      "oneword": "Great",
+      "platforms": ["Xbox One", "PC", "PS4"],
+      "url": "http://www.ign.com/articles/2017/02/17/for-honor-review"
+    },
+    {
+      "name": "Fortnite Battle Royale",
+      "score": "9.6",
+      "description":
+        "Thanks to the freedom of its outstanding building mechanic, Fortnite Battle Royale isn\u2019t just a great battle royale game \u2013 it\u2019s one of the best multiplayer games in recent history.",
+      "oneword": "Amazing",
+      "platforms": null,
+      "url":
+        "http://www.ign.com/articles/2018/03/27/fortnite-battle-royale-review"
+    },
+    {
+      "name": "Full Throttle Remastered",
+      "score": "8.0",
+      "description":
+        "Full Throttle Remastered's improved looks and sounds make it a great way to experience a classic comedy adventure.",
+      "oneword": "Great",
+      "platforms": ["Vita", "PS4", "PC"],
+      "url":
+        "http://www.ign.com/articles/2017/04/18/full-throttle-remastered-review"
+    },
+    {
+      "name": "GALAK-Z",
+      "score": "8.3",
+      "description":
+        "While not a full-fledged roguelike, GALAK-Z's superb controls and charming personality make it great.",
+      "oneword": "Great",
+      "platforms": ["PC", "PS4", "Vita"],
+      "url": "http://www.ign.com/articles/2015/08/10/galak-z-review"
+    },
+    {
+      "name": "GTA 5 PlayStation 4 and Xbox One",
+      "score": "10",
+      "description":
+        "GTA 5's amazing world looks and feels at home on new-gen hardware, and it's one of the best games available today.",
+      "oneword": "Masterpiece",
+      "platforms": ["Xbox 360", "PC", "Xbox One", "PS3", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2014/11/17/gta-5-playstation-4-and-xbox-one-review"
+    },
+    {
+      "name": "Game of Thrones: Episode 1 \u2013 Iron from Ice",
+      "score": "8.0",
+      "description":
+        "Game of Thrones Ep 1: Iron from Ice is a strong start for Telltale's adventure in George R. R. Martin's fantasy world.",
+      "oneword": "Great",
+      "platforms": ["Xbox One", "PS3"],
+      "url":
+        "http://www.ign.com/articles/2014/12/01/game-of-thrones-episode-1-iron-from-ice-review"
+    },
+    {
+      "name": "Gauntlet: Slayer Edition",
+      "score": "7.1",
+      "description":
+        "Gauntlet: Slayer Edition is a bit light on content, but that doesn't keep its improved combat from being a good time.",
+      "oneword": "Good",
+      "platforms": ["PS4", "PC"],
+      "url":
+        "http://www.ign.com/articles/2015/08/20/gauntlet-slayer-edition-review"
+    },
+    {
+      "name": "Ghost Recon: Wildlands",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": null,
+      "url":
+        "http://www.ign.com/articles/2017/03/08/ghost-recon-wildlands-review"
+    },
+    {
+      "name": "God of War",
+      "score": "10",
+      "description":
+        "God of War\u2019s outstanding characters, world, and combat come together to form an unforgettable adventure.",
+      "oneword": "Masterpiece",
+      "platforms": ["PS4"],
+      "url": "http://www.ign.com/articles/2018/04/12/god-of-war-review"
+    },
+    {
+      "name": "God of War 3 Remastered",
+      "score": "8.8",
+      "description":
+        "God of War 3 Remastered's update is mostly visual, but the action reminds us why we love this bloody series.",
+      "oneword": "Great",
+      "platforms": ["PS3", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2015/07/13/god-of-war-3-remastered-review"
+    },
+    {
+      "name": "Godzilla: The Game",
+      "score": "4.5",
+      "description":
+        "Due to tedious gameplay and lackluster visuals, Godzilla fails to live up to his title of King of the Monsters.",
+      "oneword": "Bad",
+      "platforms": ["PS4", "PS3"],
+      "url": "http://www.ign.com/articles/2015/07/14/godzilla-the-game-review"
+    },
+    {
+      "name": "Gone Home",
+      "score": "9.5",
+      "description":
+        "Gone Home is a remarkable first-person adventure that tells one of the finest stories I've ever experienced in games.",
+      "oneword": "Amazing",
+      "platforms": ["Mac", "PS4", "Xbox One", "Linux", "PC"],
+      "url": "http://www.ign.com/articles/2013/08/15/gone-home-review"
+    },
+    {
+      "name": "Gran Turismo Sport",
+      "score": "7.5",
+      "description":
+        "GT Sport looks great, feels good, and the online racing is well done, but it\u2019s just not as complete as its competitors.",
+      "oneword": "Good",
+      "platforms": ["PS4"],
+      "url": "http://www.ign.com/articles/2017/10/17/gran-turismo-sport-review"
+    },
+    {
+      "name": "Gravity Rush 2",
+      "score": "8.4",
+      "description":
+        "Kat\u2019s return in Gravity Rush 2 is refreshed by the great new gravity styles and excellent side activities.",
+      "oneword": "Great",
+      "platforms": ["PS4"],
+      "url": "http://www.ign.com/articles/2017/01/10/gravity-rush-2-review"
+    },
+    {
+      "name": "Grim Fandango Remastered",
+      "score": "9.3",
+      "description":
+        "Time has done little to diminish Grim Fandango\u2019s beauty or relevance. It is an adventure game not to be missed.",
+      "oneword": "Amazing",
+      "platforms": ["PS4", "Vita"],
+      "url":
+        "http://www.ign.com/articles/2015/01/26/grim-fandango-remastered-review"
+    },
+    {
+      "name": "Guacamelee! Super Turbo Championship Edition",
+      "score": "9.1",
+      "description":
+        "Guacamelee! is as amazing as ever. And now that it's migrated to nearly every platform, everyone can enjoy it.",
+      "oneword": "Amazing",
+      "platforms": ["Xbox One", "Xbox 360"],
+      "url":
+        "http://www.ign.com/articles/2014/07/09/guacamelee-super-turbo-championship-edition-review"
+    },
+    {
+      "name": "Guilty Gear Xrd -SIGN-",
+      "score": "8.5",
+      "description":
+        "Imaginative characters, complex battles, and a killer soundtrack are just a few good reasons to love Guilty Gear Xrd.",
+      "oneword": "Great",
+      "platforms": ["PS4", "Arcade", "PS3", "PC"],
+      "url":
+        "http://www.ign.com/articles/2014/12/16/guilty-gear-xrd-sign-review"
+    },
+    {
+      "name": "Guitar Hero Live",
+      "score": "7.9",
+      "description":
+        "A smartly redesigned controller and addictive song streaming makes Guitar Hero Live a largely enjoyable music game.",
+      "oneword": "Good",
+      "platforms": ["Xbox One", "Xbox 360", "Wii U", "PS3", "PS4"],
+      "url": "http://www.ign.com/articles/2015/10/25/guitar-hero-live-review"
+    },
+    {
+      "name": "Hardware: Rivals",
+      "score": "5.5",
+      "description":
+        "There is fun to be had, but the novelty of Hardware: Rivals wears thin pretty quickly.",
+      "oneword": "Mediocre",
+      "platforms": ["PS4"],
+      "url": "http://www.ign.com/articles/2016/01/11/hardware-rivals-review"
+    },
+    {
+      "name": "Harmonix Music VR",
+      "score": "3.5",
+      "description":
+        "This collection of musical mini-games is the last thing you'd want to show your friends on your new $400 VR headset.",
+      "oneword": "Awful",
+      "platforms": ["PS4"],
+      "url": "http://www.ign.com/articles/2016/10/05/harmonix-music-vr-review"
+    },
+    {
+      "name": "Has Been Heroes",
+      "score": "6.1",
+      "description":
+        "Has Been Heroes has good ideas, but eventually, its extreme luck-based difficulty and repetition wear it down.",
+      "oneword": "Okay",
+      "platforms": ["PC", "Xbox One", "PS4", "Switch"],
+      "url": "http://www.ign.com/articles/2017/03/24/has-been-heroes-review"
+    },
+    {
+      "name": "Hatoful Boyfriend PS4",
+      "score": "8.0",
+      "description":
+        "Hatoful Boyfriend on Vita has some technical issues, but both versions still hatch a great story with a cool new bird.",
+      "oneword": "Great",
+      "platforms": ["PC", "PS4", "Mac", "Vita"],
+      "url":
+        "http://www.ign.com/articles/2015/07/27/hatoful-boyfriend-ps4-review"
+    },
+    {
+      "name": "Headlander",
+      "score": "8.2",
+      "description":
+        "Headlander is an unexpectedly great take on Metroidviania-style action.",
+      "oneword": "Great",
+      "platforms": ["PC", "PS4", "Xbox One"],
+      "url": "http://www.ign.com/articles/2016/07/25/headlander-review"
+    },
+    {
+      "name": "Heavy Rain - PlayStation 4 Edition",
+      "score": "7.5",
+      "description":
+        "A great port, but six years on Heavy Rain has dated in some fundamental areas.",
+      "oneword": "Good",
+      "platforms": ["PS4", "PS3"],
+      "url":
+        "http://www.ign.com/articles/2016/03/03/heavy-rain-playstation-4-edition-review"
+    },
+    {
+      "name": "Hellblade: Senua's Sacrifice",
+      "score": "9.0",
+      "description":
+        "An incredible atmospheric story reinforces Hellblade's serious subject matter in this vivid tale of harrowing darkness.",
+      "oneword": "Amazing",
+      "platforms": ["PC", "PS4", "Xbox One"],
+      "url":
+        "http://www.ign.com/articles/2017/08/07/hellblade-senuas-sacrifice-review"
+    },
+    {
+      "name": "Helldivers",
+      "score": "9.0",
+      "description":
+        "Brutal, focused, and mechanically rich, Helldivers is one of the best co-op action experiences you can have.",
+      "oneword": "Amazing",
+      "platforms": ["PS4", "Vita", "PS3", "PC"],
+      "url": "http://www.ign.com/articles/2015/03/13/helldivers-review"
+    },
+    {
+      "name": "Here They Lie",
+      "score": "4.8",
+      "description":
+        "Here They Lie has a few scares in VR, but its overdone surrealism and poor execution fail to create any real horror.",
+      "oneword": "Bad",
+      "platforms": ["PS4"],
+      "url": "http://www.ign.com/articles/2016/10/12/here-they-lie-review"
+    },
+    {
+      "name": "Hitman Episode 1: Paris",
+      "score": "7.9",
+      "description":
+        "Hitman: Episode 1 combines the best of Absolution and Blood Money and is a fun, confident start to the season.",
+      "oneword": "Good",
+      "platforms": ["Xbox One", "PS4", "PC"],
+      "url":
+        "http://www.ign.com/articles/2016/03/10/hitman-episode-1-paris-review"
+    },
+    {
+      "name": "Hitman Episode 2: Sapienza",
+      "score": "8.5",
+      "description":
+        "Hitman Episode 2: Sapienza is a fantastic follow-up to the promising debut ep; huge and bursting with deadly promise.",
+      "oneword": "Great",
+      "platforms": ["PS4", "Xbox One", "PC"],
+      "url":
+        "http://www.ign.com/articles/2016/04/29/hitman-episode-2-sapienza-review"
+    },
+    {
+      "name": "Hitman Episode 3: Marrakesh",
+      "score": "6.0",
+      "description":
+        "Hitman Episode 3: Marrakesh doesn\u2019t reach the highs of the previous levels and features the worst voice acting so far.",
+      "oneword": "Okay",
+      "platforms": ["Xbox One", "PC", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2016/06/03/hitman-episode-3-marrakesh-review"
+    },
+    {
+      "name": "Hitman Episode 4: Bangkok",
+      "score": "7.4",
+      "description":
+        "Hitman Episode 4: Bangkok is a step up from the bland previous episode. Smaller, but plenty of murderous mayhem awaits.",
+      "oneword": "Good",
+      "platforms": ["Xbox One", "PC", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2016/08/18/hitman-episode-4-bangkok-review"
+    },
+    {
+      "name": "Hitman Episode 5: Colorado",
+      "score": "6.9",
+      "description":
+        "Hitman Episode 5: Colorado is the trickiest hit this season but this gloomy farm isn\u2019t an especially memorable setting.",
+      "oneword": "Okay",
+      "platforms": ["PS4", "Xbox One", "PC"],
+      "url":
+        "http://www.ign.com/articles/2016/10/04/hitman-episode-5-colorado-review"
+    },
+    {
+      "name": "Hitman Episode 6: Hokkaido",
+      "score": "8.3",
+      "description":
+        "Hitman Episode 6: Hokkaido is easily one of the best levels this season. Atmospheric and tricky.",
+      "oneword": "Great",
+      "platforms": ["PS4", "PC", "Xbox One"],
+      "url":
+        "http://www.ign.com/articles/2016/11/01/hitman-episode-6-hokkaido-review"
+    },
+    {
+      "name": "Hohokum",
+      "score": "8.8",
+      "description":
+        "A vibrant and delightful playground that will surprise you at every turn.",
+      "oneword": "Great",
+      "platforms": ["PS4", "Vita", "PS3", "Web"],
+      "url": "http://www.ign.com/articles/2014/08/12/hohokum-review"
+    },
+    {
+      "name": "Hollow Knight",
+      "score": "9.4",
+      "description":
+        "Hollow Knight\u2019s rich world and incredible depth of content will make you want to explore its caves for dozens of hours.",
+      "oneword": "Amazing",
+      "platforms": ["Mac", "Wii U", "Switch", "Linux", "PC"],
+      "url": "http://www.ign.com/articles/2018/06/22/hollow-knight-review"
+    },
+    {
+      "name": "Homefront: The Revolution",
+      "score": "5.0",
+      "description":
+        "Homefront: The Revolution gets a few things right, but comes up short on story, substance, and gameplay.",
+      "oneword": "Mediocre",
+      "platforms": ["PS4", "PC", "Xbox One"],
+      "url":
+        "http://www.ign.com/articles/2016/05/17/homefront-the-revolution-review"
+    },
+    {
+      "name": "Horizon Zero Dawn",
+      "score": "9.3",
+      "description":
+        "Horizon Zero Dawn presents us with a beautiful world full of unforgettable challenges.",
+      "oneword": "Amazing",
+      "platforms": ["PS4"],
+      "url": "http://www.ign.com/articles/2017/02/20/horizon-zero-dawn-review"
+    },
+    {
+      "name": "Horizon Zero Dawn: The Frozen Wilds",
+      "score": "8.8",
+      "description":
+        "The Frozen Wilds is a great 15-hour experience that reminded me just how wonderful this world is.",
+      "oneword": "Great",
+      "platforms": ["PS4"],
+      "url":
+        "http://www.ign.com/articles/2017/11/06/horizon-zero-dawn-the-frozen-wilds-review"
+    },
+    {
+      "name": "I Am Setsuna",
+      "score": "7.5",
+      "description":
+        "I Am Setsuna has some combat balance issues, but that doesn't keep it from delivering a highly emotional tale.",
+      "oneword": "Good",
+      "platforms": ["PS4", "Vita", "Switch", "PC"],
+      "url": "http://www.ign.com/articles/2016/07/20/i-am-setsuna-review"
+    },
+    {
+      "name": "Iconoclasts",
+      "score": "8.4",
+      "description":
+        "Iconoclasts' intricate Metroid-style puzzles and gorgeous 16-bit style art make it a memorable platformer with a distinct style.",
+      "oneword": "Great",
+      "platforms": ["PS4", "Vita", "Mac", "PC"],
+      "url": "http://www.ign.com/articles/2018/02/01/iconoclasts-review"
+    },
+    {
+      "name": "Infamous: First Light",
+      "score": "7.5",
+      "description":
+        "Infamous: First Light gives us more of the great action of Second Son, but doesn\u2019t have the same super-powered variety.",
+      "oneword": "Good",
+      "platforms": ["PS4"],
+      "url":
+        "http://www.ign.com/articles/2014/08/26/infamous-first-light-review"
+    },
+    {
+      "name": "Infamous: Second Son",
+      "score": "8.7",
+      "description":
+        "Second Son is a departure in tone for the Infamous series, but its superpowered action lives up to expectations.",
+      "oneword": "Great",
+      "platforms": ["PS4"],
+      "url": "http://www.ign.com/articles/2014/03/20/infamous-second-son-review"
+    },
+    {
+      "name": "Injustice 2",
+      "score": "9.0",
+      "description":
+        "Faster, deeper action and a wealth of content make this DC heroes fighting game feel super.",
+      "oneword": "Amazing",
+      "platforms": ["Xbox One", "PS4", "PC"],
+      "url": "http://www.ign.com/articles/2017/05/16/injustice-2-review"
+    },
+    {
+      "name": "Injustice 2: Teenage Mutant Ninja Turtles DLC",
+      "score": "8.8",
+      "description":
+        "Injustice 2's TMNT DLC pack is four distinct characters for the price of one, and great fanservice, too.",
+      "oneword": "Great",
+      "platforms": ["Xbox One", "PC", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2018/02/15/injustice-2-teenage-mutant-ninja-turtles-dlc-review"
+    },
+    {
+      "name": "Injustice: Gods Among Us Ultimate Edition",
+      "score": "8.2",
+      "description":
+        "Injustice: Gods Among Us Ultimate Edition is the most complete, best-looking version of the great DC brawler.",
+      "oneword": "Great",
+      "platforms": ["PS3", "Vita", "PS4", "Xbox 360", "PC"],
+      "url":
+        "http://www.ign.com/articles/2013/11/21/injustice-gods-among-us-ultimate-edition-review"
+    },
+    {
+      "name": "Inside",
+      "score": "10",
+      "description":
+        "Inside is a 2D puzzle platformer that builds upon what made Limbo great, and in fact builds something greater.",
+      "oneword": "Masterpiece",
+      "platforms": ["Switch", "PS4", "Xbox One", "PC", "iPhone"],
+      "url": "http://www.ign.com/articles/2016/06/28/inside-review"
+    },
+    {
+      "name": "J-Stars Victory Vs.+",
+      "score": "5.0",
+      "description":
+        "Despite a great cast of characters, J-Stars Victory Vs.+ fails to leverage their charm on or off the battlefield.",
+      "oneword": "Mediocre",
+      "platforms": ["PS3", "PS4", "Vita"],
+      "url": "http://www.ign.com/articles/2015/07/10/j-stars-victory-vs-review"
+    },
+    {
+      "name": "Job Simulator PlayStation VR",
+      "score": "7.5",
+      "description":
+        "Job Simulator is a VR funhouse that's all about goofy experimentation, interactivity, and laughs.",
+      "oneword": "Good",
+      "platforms": ["PS4", "PC"],
+      "url":
+        "http://www.ign.com/articles/2016/10/05/job-simulator-playstation-vr-review"
+    },
+    {
+      "name": "Journey PS4",
+      "score": "9.0",
+      "description":
+        "Three years later, Journey remains one of the most powerful games in recent memory.",
+      "oneword": "Amazing",
+      "platforms": ["PS3", "PS4"],
+      "url": "http://www.ign.com/articles/2015/07/23/journey-ps4-review"
+    },
+    {
+      "name": "Jurassic World Evolution",
+      "score": "4.8",
+      "description":
+        "After careful consideration, I've decided not to endorse Jurassic World Evolution's park.",
+      "oneword": "Bad",
+      "platforms": ["PC", "PS4", "Xbox One"],
+      "url":
+        "http://www.ign.com/articles/2018/06/11/jurassic-park-evolution-review"
+    },
+    {
+      "name": "Just Cause 3 Xbox One and PlayStation 4",
+      "score": "5.9",
+      "description":
+        "When the action gets hot, the PS4 and Xbox One can't deliver the performance Just Cause 3 needs to be fun.",
+      "oneword": "Mediocre",
+      "platforms": ["Xbox One", "PC", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2015/12/03/just-cause-3-xbox-one-and-playstation-4-review"
+    },
+    {
+      "name": "Just Dance 2014 PS4",
+      "score": "7.5",
+      "description":
+        "Just Dance 2014 is still daft fun on PS4, but other versions have more to offer.",
+      "oneword": "Good",
+      "platforms": ["Wii"],
+      "url": "http://www.ign.com/articles/2013/11/21/just-dance-2014-ps4-review"
+    },
+    {
+      "name": "Kerbal Space Program PS4",
+      "score": "9.0",
+      "description": "This goofy space-flight sim has the right stuff.",
+      "oneword": "Amazing",
+      "platforms": ["PS4", "PC", "Xbox One", "Wii U"],
+      "url":
+        "http://www.ign.com/articles/2016/07/18/kerbal-space-program-ps4-review"
+    },
+    {
+      "name": "Killing Floor 2",
+      "score": "8.0",
+      "description":
+        "While a little thin on variety, Killing Floor 2's interesting classes and fast-paced shooting are a bloody good time.",
+      "oneword": "Great",
+      "platforms": ["PS4", "Xbox One", "PC"],
+      "url": "http://www.ign.com/articles/2016/11/22/killing-floor-2-review"
+    },
+    {
+      "name": "Killing Floor: Incursion",
+      "score": "8.0",
+      "description":
+        "Immersive survival-horror shooter Killing Floor: Incursion delights in the tactile pleasures of VR.",
+      "oneword": "Great",
+      "platforms": ["PC", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2018/05/04/killing-floor-incursion-review"
+    },
+    {
+      "name": "Killzone: Shadow Fall",
+      "score": "8.0",
+      "description":
+        "Killzone: Shadow Fall is a worthy game to purchase alongside your PlayStation 4.",
+      "oneword": "Great",
+      "platforms": ["PS4"],
+      "url":
+        "http://www.ign.com/articles/2013/11/13/killzone-shadow-fall-review"
+    },
+    {
+      "name": "King of Fighters 14",
+      "score": "8.0",
+      "description":
+        "Dated graphics and dodgy netcode slow King of Fighters XIV down a bit, but it's still a deep, rewarding fighter.",
+      "oneword": "Great",
+      "platforms": ["PS4"],
+      "url": "http://www.ign.com/articles/2016/08/24/king-of-fighters-14-review"
+    },
+    {
+      "name": "Kingdom Hearts HD 2.8 Final Chapter Prologue",
+      "score": "7.5",
+      "description":
+        "A great glimpse at what\u2019s to come, but the return to the past is an at-times unsatisfying appetizer.",
+      "oneword": "Good",
+      "platforms": ["PS4"],
+      "url":
+        "http://www.ign.com/articles/2017/01/26/kingdom-hearts-hd-28-final-chapter-prologue-review"
+    },
+    {
+      "name": "Knack",
+      "score": "5.9",
+      "description":
+        "Knack's shifting size is a great idea that never really grows into anything substantial.",
+      "oneword": "Mediocre",
+      "platforms": ["PS4"],
+      "url": "http://www.ign.com/articles/2013/11/13/knack-review"
+    },
+    {
+      "name": "Knack 2",
+      "score": "7.2",
+      "description":
+        "Knack 2 is a significant improvement over the original, but still badly needs more interesting characters.",
+      "oneword": "Good",
+      "platforms": ["PS4"],
+      "url": "http://www.ign.com/articles/2017/09/05/knack-2-review"
+    },
+    {
+      "name": "LEGO City Undercover",
+      "score": "8.0",
+      "description":
+        "LEGO City Undercover remains a colourful open world stuffed with gameplay, and now it can be enjoyed by two.",
+      "oneword": "Great",
+      "platforms": ["Wii U", "Xbox One", "PC", "PS4", "Switch"],
+      "url":
+        "http://www.ign.com/articles/2017/04/04/lego-city-undercover-review-2"
+    },
+    {
+      "name": "LEGO Dimensions",
+      "score": "7.7",
+      "description":
+        "LEGO Dimensions\u2019 great characters and fun references consistently left me with a big dumb grin on my face.",
+      "oneword": "Good",
+      "platforms": ["Wii U", "Xbox One", "PS4", "PS3", "Xbox 360"],
+      "url": "http://www.ign.com/articles/2015/09/29/lego-dimensions-review"
+    },
+    {
+      "name": "LEGO Marvel Super Heroes",
+      "score": "9.0",
+      "description":
+        "Face front, True Believers! Lego Marvel is the best thing to happen to Marvel games in years.",
+      "oneword": "Amazing",
+      "platforms": ["Wii U"],
+      "url":
+        "http://www.ign.com/articles/2013/10/22/lego-marvel-super-heroes-review"
+    },
+    {
+      "name": "LEGO Marvel Superheroes 2",
+      "score": "8.0",
+      "description":
+        "LEGO Marvel Super Heroes 2 doesn't change much from the LEGO formula, but rarely has the variety been so satisfying.",
+      "oneword": "Great",
+      "platforms": ["PS4", "PC", "Switch", "Xbox One"],
+      "url":
+        "http://www.ign.com/articles/2017/11/14/lego-marvel-superheroes-2-review"
+    },
+    {
+      "name": "LEGO Marvel's Avengers",
+      "score": "6.7",
+      "description":
+        "LEGO Marvel's Avengers is fun, but unfortunately restricted by stubbornly sticking to the Marvel Cinematic Universe.",
+      "oneword": "Okay",
+      "platforms": ["Vita", "PC", "Wii U"],
+      "url":
+        "http://www.ign.com/articles/2016/01/27/lego-marvels-avengers-review"
+    },
+    {
+      "name": "LEGO Star Wars: The Force Awakens",
+      "score": "9.0",
+      "description":
+        "LEGO Star Wars: The Force Awakens is the most gaming fun I\u2019ve had with either series in years.",
+      "oneword": "Amazing",
+      "platforms": [
+        "Wii U",
+        "Xbox One",
+        "Android",
+        "PS4",
+        "Vita",
+        "PC",
+        "iPhone",
+        "PS3",
+        "3DS",
+        "Xbox 360"
+      ],
+      "url":
+        "http://www.ign.com/articles/2016/06/28/lego-star-wars-the-force-awakens-review"
+    },
+    {
+      "name": "LawBreakers",
+      "score": "7.9",
+      "description":
+        "LawBreakers is a fast-paced shooter with a sky high skill cap and an occasionally frustrating matchmaker.",
+      "oneword": "Good",
+      "platforms": ["PC", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2017/08/10/lawbreakers-review-in-progress"
+    },
+    {
+      "name": "Lego Batman 3 Beyond Gotham",
+      "score": "7.4",
+      "description":
+        "Lego Batman 3 has loads of great DC characters and missions, but suffers from an inconsistent tone.",
+      "oneword": "Good",
+      "platforms": ["Wii U", "Xbox 360", "PC", "Xbox One"],
+      "url":
+        "http://www.ign.com/articles/2014/11/22/lego-batman-3-beyond-gotham-review"
+    },
+    {
+      "name": "Lego The Hobbit",
+      "score": "7.4",
+      "description":
+        "A fun and charming extension of the film that nevertheless suffers from some disjointed story problems and some sameness of characters.",
+      "oneword": "Good",
+      "platforms": ["Xbox One", "Xbox 360", "Vita", "3DS"],
+      "url": "http://www.ign.com/articles/2014/04/10/lego-the-hobbit-review"
+    },
+    {
+      "name": "Let it Die",
+      "score": "6.4",
+      "description":
+        "Let It Die's outrageously weird sense of style help it overcome some of its gameplay issues, but only for so long.",
+      "oneword": "Okay",
+      "platforms": ["PS4"],
+      "url": "http://www.ign.com/articles/2016/12/16/let-it-die-review"
+    },
+    {
+      "name": "Life Is Strange -- Episode 3",
+      "score": "8.0",
+      "description":
+        "Life Is Strange: Episode 3 takes a massive turn with a heartfelt and ambitious new story.",
+      "oneword": "Great",
+      "platforms": ["PC", "Xbox One", "PS3", "Xbox 360", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2015/05/19/life-is-strange-episode-3-review"
+    },
+    {
+      "name": "Life Is Strange -- Episode 4: Dark Room",
+      "score": "6.0",
+      "description":
+        "Dark Room finally sets off the mystery but it\u2019s the least consistent episode of Life Is Strange so far.",
+      "oneword": "Okay",
+      "platforms": ["PC", "PS3", "Xbox 360", "Xbox One", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2015/07/30/life-is-strange-episode-4-dark-room-review"
+    },
+    {
+      "name": "Little Nightmares",
+      "score": "8.8",
+      "description":
+        "Gleefully strange, unceasingly grim, and quietly smart, Little Nightmares is a very welcome fresh take on horror.",
+      "oneword": "Great",
+      "platforms": ["PS4", "Xbox One", "PC", "Switch"],
+      "url": "http://www.ign.com/articles/2017/04/26/little-nightmares-review"
+    },
+    {
+      "name": "LittleBigPlanet 3",
+      "score": "6.8",
+      "description":
+        "A beautifully-designed game with a great creation toolkit, LittleBigPlanet 3 is let down by unimaginative co-op & bugs.",
+      "oneword": "Okay",
+      "platforms": ["PS3", "PS4"],
+      "url": "http://www.ign.com/articles/2014/11/17/littlebigplanet-3-review"
+    },
+    {
+      "name": "Loadout PlayStation 4",
+      "score": "6.4",
+      "description":
+        "Loadout's fast-paced shooting is worth a free download, but you might not want to crack your PSN wallet to progress.",
+      "oneword": "Okay",
+      "platforms": ["PC", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2015/01/02/loadout-playstation-4-review"
+    },
+    {
+      "name": "Lost Sphear",
+      "score": "6.7",
+      "description":
+        "Lost Sphear is so cluttered with homages to classic RPGs that it fails to create an identity of its own.",
+      "oneword": "Okay",
+      "platforms": ["Switch", "PS4", "PC"],
+      "url": "http://www.ign.com/articles/2018/01/22/lost-sphear-review"
+    },
+    {
+      "name": "MLB 14: The Show",
+      "score": "8.1",
+      "description":
+        "MLB: The Show 14 is still a great baseball sim, but this year's game doesn't have much new stuff to get excited about.",
+      "oneword": "Great",
+      "platforms": ["Vita", "PS3", "PS4"],
+      "url": "http://www.ign.com/articles/2014/04/04/mlb-14-the-show-review"
+    },
+    {
+      "name": "MLB 15: The Show",
+      "score": "8.5",
+      "description":
+        "MLB 15: The Show is an excellent, complete package, but there are no game-changing new features this year.",
+      "oneword": "Great",
+      "platforms": ["PS3", "PS4", "Vita"],
+      "url": "http://www.ign.com/articles/2015/04/08/mlb-15-the-show-review"
+    },
+    {
+      "name": "MLB The Show 16",
+      "score": "9.3",
+      "description":
+        "Simply put, MLB The Show 16 is the best baseball game available on any current-gen console.",
+      "oneword": "Amazing",
+      "platforms": ["PS3", "PS4"],
+      "url": "http://www.ign.com/articles/2016/03/31/mlb-the-show-16-review"
+    },
+    {
+      "name": "MLB The Show 17",
+      "score": "9.5",
+      "description":
+        "It's a career year for the only AAA baseball sim left on any platform.",
+      "oneword": "Amazing",
+      "platforms": ["PS4"],
+      "url": "http://www.ign.com/articles/2017/03/27/mlb-the-show-17-review"
+    },
+    {
+      "name": "MLB The Show 18",
+      "score": "8.5",
+      "description":
+        "Between the foul lines, MLB The Show 18 is better than ever; but some of its main modes of play are left on the bench or out of the game.",
+      "oneword": "Great",
+      "platforms": ["PS4"],
+      "url": "http://www.ign.com/articles/2018/03/27/mlb-the-show-18-review"
+    },
+    {
+      "name": "Mad Max",
+      "score": "8.4",
+      "description":
+        "Mad Max is an engaging rampage through a brutal world of depravity and loss that urges you to probe every ugly corner.",
+      "oneword": "Great",
+      "platforms": ["Xbox One"],
+      "url": "http://www.ign.com/articles/2015/08/31/mad-max-review"
+    },
+    {
+      "name": "Madden NFL 15",
+      "score": "8.7",
+      "description":
+        "Madden NFL 15\u2019s defense revamp goes a long way toward reviving the excitement of football.",
+      "oneword": "Great",
+      "platforms": ["PS4", "PS3", "Xbox One", "Xbox 360"],
+      "url": "http://www.ign.com/articles/2014/08/21/madden-nfl-15-review"
+    },
+    {
+      "name": "Madden NFL 16",
+      "score": "8.8",
+      "description":
+        "Madden NFL 16's new throwing and passing game ramps up the risk, reward, and realism in new, exciting ways.",
+      "oneword": "Great",
+      "platforms": ["Xbox 360", "PS3", "Xbox One", "PS4"],
+      "url": "http://www.ign.com/articles/2015/08/24/madden-nfl-16-review"
+    },
+    {
+      "name": "Madden NFL 17",
+      "score": "8.6",
+      "description":
+        "With reinvigorated defense and gameplay styles that match the real teams, Madden NFL 17 returns the series to glory.",
+      "oneword": "Great",
+      "platforms": ["PS3", "Xbox One", "PS4", "Xbox 360"],
+      "url": "http://www.ign.com/articles/2016/08/17/madden-nfl-17-review"
+    },
+    {
+      "name": "Madden NFL 18",
+      "score": "8.6",
+      "description":
+        "The shift to Frostbite doesn't refresh Madden NFL 18's gameplay much, but Longshot is a memorable single-player mode.",
+      "oneword": "Great",
+      "platforms": ["PS4", "Xbox One"],
+      "url": "http://www.ign.com/articles/2017/08/23/madden-nfl-18-review"
+    },
+    {
+      "name": "Madden NFL 25 Xbox One and PlayStation 4",
+      "score": "7.6",
+      "description":
+        "Next-gen graphics only go so far \u2013 changes to Madden 25's play make control tougher, though it's still good football.",
+      "oneword": "Good",
+      "platforms": ["iPhone"],
+      "url":
+        "http://www.ign.com/articles/2013/11/15/madden-nfl-25-xbox-one-and-playstation-4-review"
+    },
+    {
+      "name": "Mafia 3",
+      "score": "7.5",
+      "description":
+        "Mafia 3's fantastic story and characters are held down by some familiar, uninspired gameplay.",
+      "oneword": "Good",
+      "platforms": ["Xbox One", "PS4", "PC"],
+      "url": "http://www.ign.com/articles/2016/10/10/mafia-3-review"
+    },
+    {
+      "name": "Magicka 2",
+      "score": "7.7",
+      "description":
+        "Though it may occasionally test your patience, Magicka 2's charm and depth make it a really fun co-op experience.",
+      "oneword": "Good",
+      "platforms": ["PC", "PS4"],
+      "url": "http://www.ign.com/articles/2015/05/28/magicka-2-review"
+    },
+    {
+      "name": "Marvel Vs Capcom: Infinite",
+      "score": "7.7",
+      "description":
+        "Marvel Vs. Capcom: Infinite's poor art style and story give the excellent fighting game underneath a bad name.",
+      "oneword": "Good",
+      "platforms": ["PC", "Xbox One", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2017/09/18/marvel-vs-capcom-infinite-review"
+    },
+    {
+      "name":
+        "Marvel's Guardians of the Galaxy: The Telltale Series, Episode 1: Tangled Up in Blue",
+      "score": "8.5",
+      "description":
+        "Ep 1 of Telltale's Guardians of the Galaxy series hits most of the right notes to capture the spirit of comic and film.",
+      "oneword": "Great",
+      "platforms": ["PS4"],
+      "url":
+        "http://www.ign.com/articles/2017/04/17/marvels-guardians-of-the-galaxy-the-telltale-series-episode-1-tangled-up-in-blue-review"
+    },
+    {
+      "name": "Mass Effect: Andromeda",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": null,
+      "url":
+        "http://www.ign.com/articles/2017/03/20/mass-effect-andromeda-review"
+    },
+    {
+      "name": "Matterfall",
+      "score": "7.0",
+      "description":
+        "Matterfall's action packed ride is over all too soon, but it's a blast while it lasts.",
+      "oneword": "Good",
+      "platforms": ["PS4"],
+      "url": "http://www.ign.com/articles/2017/08/14/matterfall-review"
+    },
+    {
+      "name": "Mega Man Legacy Collection",
+      "score": "9.0",
+      "description":
+        "Mega Man Legacy Collection combines great emulation, remixes, and historic context into a superb compilation.",
+      "oneword": "Amazing",
+      "platforms": ["Xbox One", "Switch", "PC", "PS4", "3DS"],
+      "url":
+        "http://www.ign.com/articles/2015/08/25/mega-man-legacy-collection-review"
+    },
+    {
+      "name": "Mega Man Legacy Collection 2",
+      "score": "6.0",
+      "description":
+        "Mega Man Legacy Collection 2's games are fun and frustrating to revisit.",
+      "oneword": "Okay",
+      "platforms": ["Xbox One", "Switch", "PC", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2017/08/08/mega-man-legacy-collection-2-review"
+    },
+    {
+      "name": "Mercenary Kings",
+      "score": "8.0",
+      "description":
+        "Mercenary Kings is old-school, yet modern, providing players with a difficult and rewarding side-scrolling shooter.",
+      "oneword": "Great",
+      "platforms": ["Vita", "PC", "PS4"],
+      "url": "http://www.ign.com/articles/2014/04/25/mercenary-kings-review"
+    },
+    {
+      "name": "Metal Gear Solid 5: Ground Zeroes",
+      "score": "8.0",
+      "description":
+        "While short, a Metal Gear game has never looked or played as good as Ground Zeroes. Bring on The Phantom Pain.",
+      "oneword": "Great",
+      "platforms": ["PS4", "Xbox One", "PC", "PS3", "Xbox 360"],
+      "url":
+        "http://www.ign.com/articles/2014/03/18/metal-gear-solid-5-ground-zeroes-review"
+    },
+    {
+      "name": "Metal Gear Solid 5: The Phantom Pain",
+      "score": "10",
+      "description":
+        "Metal Gear Solid 5: The Phantom Pain is a gameplay marvel, rewarding intelligence and creativity in a way few games do.",
+      "oneword": "Masterpiece",
+      "platforms": ["Xbox One", "Xbox 360", "PS4", "PS3", "PC"],
+      "url":
+        "http://www.ign.com/articles/2015/08/23/metal-gear-solid-5-the-phantom-pain-review"
+    },
+    {
+      "name": "Metal Gear Survive",
+      "score": "6.5",
+      "description":
+        "Despite losing the soul of the series, there's fun in Metal Gear Survive's resource-gathering, base-building loop and co-op action.",
+      "oneword": "Okay",
+      "platforms": ["Xbox One", "PC", "PS4"],
+      "url": "http://www.ign.com/articles/2018/02/23/metal-gear-survive-review"
+    },
+    {
+      "name": "Metro: Redux",
+      "score": "8.6",
+      "description":
+        "Packing in two remastered adventures and tons of bonus content, Metro: Redux is Moscow's underworld at its best.",
+      "oneword": "Great",
+      "platforms": ["Xbox One", "PC", "PS4"],
+      "url": "http://www.ign.com/articles/2014/08/19/metro-redux-review"
+    },
+    {
+      "name": "Middle-earth: Shadow of Mordor",
+      "score": "9.3",
+      "description":
+        "Middle-earth: Shadow of Mordor's great action and dynamic enemies make both victory and defeat an amazing experience.",
+      "oneword": "Amazing",
+      "platforms": ["Xbox 360", "Xbox One", "PS3", "PS4", "PC"],
+      "url":
+        "http://www.ign.com/articles/2014/09/25/middle-earth-shadow-of-mordor-review"
+    },
+    {
+      "name": "Middle-earth: Shadow of War",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": null,
+      "url":
+        "http://www.ign.com/articles/2017/10/05/middle-earth-shadow-of-war-review"
+    },
+    {
+      "name": "Middle-earth: Shadow of War - Blade of Galadriel DLC",
+      "score": "6.8",
+      "description":
+        "Middle-earth: Shadow of War - Blade of Galadriel removes the most interesting part of the main game and replaces it with some just-okay new moves.",
+      "oneword": "Okay",
+      "platforms": ["PC", "PS4", "Xbox One"],
+      "url":
+        "http://www.ign.com/articles/2018/02/13/middle-earth-shadow-of-war-blade-of-galadriel-dlc-review"
+    },
+    {
+      "name": "Mighty No. 9",
+      "score": "5.6",
+      "description":
+        "Charmless and full of poorly-executed ideas, Mighty No. 9 fails to entertain despite its legendary pedigree.",
+      "oneword": "Mediocre",
+      "platforms": null,
+      "url": "http://www.ign.com/articles/2016/06/20/mighty-no-9-review"
+    },
+    {
+      "name": "Minecraft PS4 and Xbox One",
+      "score": "9.7",
+      "description":
+        "Minecraft on PS4 and Xbox One is the same amazing game, but with even bigger worlds than we've see on consoles before.",
+      "oneword": "Amazing",
+      "platforms": [
+        "Vita",
+        "PS4",
+        "Wii U",
+        "Android",
+        "PC",
+        "Switch",
+        "Xbox 360",
+        "iPhone",
+        "Xbox One",
+        "PS3"
+      ],
+      "url":
+        "http://www.ign.com/articles/2014/09/05/minecraft-ps4-and-xbox-one-review"
+    },
+    {
+      "name": "Mirror's Edge Catalyst",
+      "score": "6.8",
+      "description":
+        "Mirror\u2019s Edge\u2019s return shines in some regards, but is ultimately a disappointment.",
+      "oneword": "Okay",
+      "platforms": ["Xbox One", "PC", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2016/06/06/mirrors-edge-catalyst-review"
+    },
+    {
+      "name": "Monster Hunter: World",
+      "score": "9.5",
+      "description":
+        "Bold and newly beautiful, Monster Hunter: World demands to be played on its own terms and rewards you with an amazing RPG.",
+      "oneword": "Amazing",
+      "platforms": ["PC", "Xbox One", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2018/01/25/monster-hunter-world-review"
+    },
+    {
+      "name": "Mortal Kombat X",
+      "score": "8.4",
+      "description":
+        "Great new characters, and sharper gameplay hooks make Mortal Kombat X the best game in the series.",
+      "oneword": "Great",
+      "platforms": ["Xbox One", "PC", "PS4"],
+      "url": "http://www.ign.com/articles/2015/04/13/mortal-kombat-x-review"
+    },
+    {
+      "name": "Moss",
+      "score": "8.4",
+      "description":
+        "Quill and her fantastical world of Moss are instantly likable. This storybook action-adventure makes stellar use of VR.",
+      "oneword": "Great",
+      "platforms": ["PS4", "PC"],
+      "url": "http://www.ign.com/articles/2018/03/02/moss-review"
+    },
+    {
+      "name": "MouseCraft",
+      "score": "7.7",
+      "description":
+        "MouseCraft made me feel like a mad scientist as I used tetris bricks to lead mice through thoughtful puzzles.",
+      "oneword": "Good",
+      "platforms": ["Xbox One", "PC"],
+      "url": "http://www.ign.com/articles/2014/07/11/mousecraft-review"
+    },
+    {
+      "name": "Murdered: Soul Suspect",
+      "score": "5.5",
+      "description":
+        "Murdered: Soul Suspect has a lot of great ideas, but none of them come together in a satisfying way.",
+      "oneword": "Mediocre",
+      "platforms": ["PS3", "Xbox One", "PS4", "PC", "Xbox 360"],
+      "url":
+        "http://www.ign.com/articles/2014/06/02/murdered-soul-suspect-review"
+    },
+    {
+      "name": "NBA 2K14",
+      "score": "8.9",
+      "description":
+        "NBA 2K14 on PS4 & Xbox One is not only a great basketball game, it's a showcase for your new console.",
+      "oneword": "Great",
+      "platforms": ["iPhone"],
+      "url":
+        "http://www.ign.com/articles/2013/11/11/nba-2k14-ps4-xbox-one-review"
+    },
+    {
+      "name": "NBA 2K15",
+      "score": "7.8",
+      "description":
+        "Like a great player toughing it out through an injury, NBA 2K15 is still strong despite crippling server problems.",
+      "oneword": "Good",
+      "platforms": ["PS4"],
+      "url": "http://www.ign.com/articles/2014/10/09/nba-2k15-review"
+    },
+    {
+      "name": "NBA 2K16",
+      "score": "9.0",
+      "description":
+        "NBA 2K16 is a leap forward in defensive AI, online stability, and overall polish. This is amazing basketball.",
+      "oneword": "Amazing",
+      "platforms": ["PS4"],
+      "url": "http://www.ign.com/articles/2015/09/29/nba-2k16-review"
+    },
+    {
+      "name": "NBA 2K17",
+      "score": "8.9",
+      "description":
+        "In NBA 2K17 the focus is on chaining moves and customization, and it pays off.",
+      "oneword": "Great",
+      "platforms": ["PS4", "Xbox One", "PC", "PS3", "Xbox 360"],
+      "url": "http://www.ign.com/articles/2016/09/21/nba-2k17-review"
+    },
+    {
+      "name": "NBA 2K18",
+      "score": "8.4",
+      "description":
+        "NBA 2K18 impresses by making players behave more like their real-life counterparts than ever before.",
+      "oneword": "Great",
+      "platforms": ["PC"],
+      "url": "http://www.ign.com/articles/2017/09/19/nba-2k18-review"
+    },
+    {
+      "name": "NBA Live '15",
+      "score": "5.5",
+      "description":
+        "Don't let the improved looks fool you \u2013 NBA Live 15's good ideas are all stifled by poor gameplay fundamentals.",
+      "oneword": "Mediocre",
+      "platforms": ["PS4", "Xbox One"],
+      "url": "http://www.ign.com/articles/2014/10/28/nba-live-15-review"
+    },
+    {
+      "name": "NBA Live 14",
+      "score": "4.3",
+      "description":
+        "NBA Live 14 marks the return of the once-excellent basketball sim, but that excellence is long gone.",
+      "oneword": "Bad",
+      "platforms": ["PS4", "Xbox One"],
+      "url": "http://www.ign.com/articles/2013/11/19/nba-live-14-review"
+    },
+    {
+      "name": "NBA Live 16",
+      "score": "6.0",
+      "description":
+        "NBA Live 16 can only go so far with clumsy controls holding it back.",
+      "oneword": "Okay",
+      "platforms": ["PS4", "Xbox One"],
+      "url": "http://www.ign.com/articles/2015/10/06/nba-live-16-review"
+    },
+    {
+      "name": "NBA Live 18",
+      "score": "6.5",
+      "description":
+        "While NBA Live 18\u2019s gameplay is a significant upgrade, its shallow game modes fall well short of the competition.",
+      "oneword": "Okay",
+      "platforms": ["PS4", "Xbox One"],
+      "url": "http://www.ign.com/articles/2017/09/19/nba-live-18-review"
+    },
+    {
+      "name": "NHL 15",
+      "score": "7.0",
+      "description":
+        "NHL 15 is fun to play and pretty to look at, but it's disappointingly light on modes to keep you hooked on hockey.",
+      "oneword": "Good",
+      "platforms": ["Xbox One", "PS4", "PS3", "Xbox 360"],
+      "url": "http://www.ign.com/articles/2014/09/09/nhl-15-review"
+    },
+    {
+      "name": "NHL 16",
+      "score": "7.8",
+      "description":
+        "NHL 16 brings the series back up to speed with some great modes and features, but you can\u2019t count on its online modes.",
+      "oneword": "Good",
+      "platforms": ["Xbox One", "PS4"],
+      "url": "http://www.ign.com/articles/2015/09/15/nhl-16-review"
+    },
+    {
+      "name": "Naruto Shippuden: Ultimate Ninja Storm",
+      "score": "5.5",
+      "description":
+        "Naruto Shippuden: Ultimate Ninja Storm's strong combat is countered hard by poor AI and connection problems.",
+      "oneword": "Mediocre",
+      "platforms": ["PS4", "Xbox One", "PC"],
+      "url":
+        "http://www.ign.com/articles/2016/02/09/naruto-shippuden-ultimate-ninja-storm-review"
+    },
+    {
+      "name": "Natural Doctrine",
+      "score": "2.8",
+      "description":
+        "With its unfair gameplay and messy combat, Natural Doctrine is nothing more than a tedious, rage-inducing nightmare.",
+      "oneword": "Painful",
+      "platforms": ["PS4", "Vita", "PS3"],
+      "url": "http://www.ign.com/articles/2014/10/16/natural-doctrine-review"
+    },
+    {
+      "name": "Need for Speed",
+      "score": "6.3",
+      "description":
+        "Need for Speed looks and sounds great, but beneath its flashy exterior it\u2019s not quite firing on all cylinders.",
+      "oneword": "Okay",
+      "platforms": ["PC", "PS4", "Xbox One"],
+      "url": "http://www.ign.com/articles/2015/11/02/need-for-speed-review-3"
+    },
+    {
+      "name": "Need for Speed Rivals",
+      "score": "8.0",
+      "description":
+        "Fast, furious, and fun. NFS: Rivals blends Hot Pursuit and Most Wanted to great effect.",
+      "oneword": "Great",
+      "platforms": ["PS4", "Xbox 360", "PC", "PS3", "Xbox One"],
+      "url":
+        "http://www.ign.com/articles/2013/11/20/need-for-speed-rivals-review"
+    },
+    {
+      "name": "Nex Machina",
+      "score": "8.0",
+      "description":
+        "Nex Machina is a great-looking, fast-paced, and challenging twin-stick shooter.",
+      "oneword": "Great",
+      "platforms": ["PS4", "PC"],
+      "url": "http://www.ign.com/articles/2017/06/23/nex-machina-review"
+    },
+    {
+      "name": "Ni No Kuni 2: Revenant Kingdom",
+      "score": "7.8",
+      "description":
+        "Revenant Kingdom delivers in pacing and scope, but is let down by a lack of character development and challenge.",
+      "oneword": "Good",
+      "platforms": ["PS4", "PC"],
+      "url":
+        "http://www.ign.com/articles/2018/03/19/ni-no-kuni-2-revenant-kingdom-review"
+    },
+    {
+      "name": "Nier: Automata",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": null,
+      "url": "http://www.ign.com/articles/2017/03/06/nier-automata-review"
+    },
+    {
+      "name": "Night in the Woods",
+      "score": "8.7",
+      "description":
+        "Night in the Woods' exploration of young adulthood manages to be charming, funny, and devastatingly sad all at once.",
+      "oneword": "Great",
+      "platforms": ["PC", "Switch", "PS4", "Mac", "Linux"],
+      "url": "http://www.ign.com/articles/2017/02/25/night-in-the-woods-review"
+    },
+    {
+      "name": "Nioh",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": null,
+      "url": "http://www.ign.com/articles/2017/02/02/nioh-review"
+    },
+    {
+      "name": "No Man's Sky",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": null,
+      "url": "http://www.ign.com/articles/2016/08/12/no-mans-sky-review"
+    },
+    {
+      "name": "Octodad: Dadliest Catch PS4",
+      "score": "7.8",
+      "description":
+        "Octodad revels in its brand of absurdist physical comedy, but also tells a touching tale.",
+      "oneword": "Good",
+      "platforms": ["Xbox One", "Mac", "Vita", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2014/04/23/octodad-dadliest-catch-ps4-review"
+    },
+    {
+      "name": "Oddworld: New 'N' Tasty",
+      "score": "8.5",
+      "description":
+        "New 'n' Tasty is a fantastic way to rediscover a cleverly designed, grotesquely beautiful puzzle-platforming classic.",
+      "oneword": "Great",
+      "platforms": ["PC", "Mac"],
+      "url":
+        "http://www.ign.com/articles/2014/07/21/oddworld-new-n-tasty-review"
+    },
+    {
+      "name": "Odin Sphere: Leifthrasir",
+      "score": "9.5",
+      "description":
+        "A brilliant remake brings Odin Sphere: Leifthrasir to its full action-RPG potential.",
+      "oneword": "Amazing",
+      "platforms": ["Vita", "PS4", "PS3"],
+      "url":
+        "http://www.ign.com/articles/2016/06/01/odin-sphere-leifthrasir-review"
+    },
+    {
+      "name": "Okami HD",
+      "score": "9.4",
+      "description": "",
+      "oneword": "Amazing",
+      "platforms": null,
+      "url": "http://www.ign.com/articles/2012/10/30/okami-hd-review"
+    },
+    {
+      "name": "OlliOlli 2: Welcome to Olliwood",
+      "score": "9.0",
+      "description":
+        "A superbly crafted and challenging technical skating game.",
+      "oneword": "Amazing",
+      "platforms": ["Xbox One"],
+      "url":
+        "http://www.ign.com/articles/2015/03/03/olliolli-2-welcome-to-olliwood-review"
+    },
+    {
+      "name": "One Piece: Burning Blood",
+      "score": "6.5",
+      "description":
+        "One Piece: Burning Blood is a bit too much for the uninitiated, and a bit too little for One Piece stalwarts.",
+      "oneword": "Okay",
+      "platforms": ["Xbox One", "Vita", "PS4", "PC"],
+      "url":
+        "http://www.ign.com/articles/2016/05/31/one-piece-burning-blood-review"
+    },
+    {
+      "name": "One Piece: Pirate Warriors 3",
+      "score": "6.9",
+      "description":
+        "Pirate Warriors 3 combines musou combat with One Piece\u2019s spirit intact, but it\u2019s bogged down by cutscenes.",
+      "oneword": "Okay",
+      "platforms": ["PS4", "PS3", "PC", "Vita"],
+      "url":
+        "http://www.ign.com/articles/2015/09/11/one-piece-pirate-warriors-3-review"
+    },
+    {
+      "name": "Onrush",
+      "score": "8.2",
+      "description":
+        "Onrush makes its mark by making you forget everything you thought you knew about racing games. Its a never-ending stampede of exciting chaos.",
+      "oneword": "Great",
+      "platforms": ["PS4", "Xbox One"],
+      "url": "http://www.ign.com/articles/2018/06/06/onrush-review"
+    },
+    {
+      "name": "Outlast",
+      "score": "7.8",
+      "description":
+        "Outlast stands proudly as a unique and terrifying survival horror game.",
+      "oneword": "Good",
+      "platforms": ["Switch", "Xbox One", "PS4", "PC"],
+      "url": "http://www.ign.com/articles/2013/09/04/outlast-review"
+    },
+    {
+      "name": "Outlast: Whistleblower",
+      "score": "6.4",
+      "description":
+        "Outlast: Whistleblower's hellish adventure is still scary, but relies too heavily on the same old tricks.",
+      "oneword": "Okay",
+      "platforms": ["Switch", "PC", "PS4", "Xbox One"],
+      "url":
+        "http://www.ign.com/articles/2014/05/08/outlast-whistleblower-review"
+    },
+    {
+      "name": "Oxenfree",
+      "score": "8.2",
+      "description":
+        "Oxenfree's beautiful coming-of-age story is slowed down by pacing issues.",
+      "oneword": "Great",
+      "platforms": ["PS4", "iPhone", "Switch", "PC", "Xbox One"],
+      "url": "http://www.ign.com/articles/2016/01/15/oxenfree-review"
+    },
+    {
+      "name": "PES 2017",
+      "score": "9.5",
+      "description":
+        "Slick gameplay, smart AI, and great online make PES 2017 a great all-round football game.",
+      "oneword": "Amazing",
+      "platforms": ["Xbox 360", "Xbox One", "PS3", "PC", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2016/09/13/pes-2017-review-in-progress"
+    },
+    {
+      "name": "PES 2018",
+      "score": "9.2",
+      "description":
+        "Once again, PES has set an incredibly high level of quality for other sports games to try and match.",
+      "oneword": "Amazing",
+      "platforms": ["Xbox One", "Xbox 360", "PS3", "PC", "PS4"],
+      "url": "http://www.ign.com/articles/2017/09/11/pes-2018-review"
+    },
+    {
+      "name": "PS4 Pro",
+      "score": "8.5",
+      "description":
+        "Powerful and premium-feeling, the PS4 Pro has a lot of potential, but needs more uniform support to truly shine.",
+      "oneword": "Great",
+      "platforms": ["PS4"],
+      "url": "http://www.ign.com/articles/2016/11/07/ps4-pro-review"
+    },
+    {
+      "name": "Payday 2: Crimewave Edition",
+      "score": "8.3",
+      "description":
+        "Payday 2: Crimewave Edition doesn't look all that great, but it plays better than ever this time around.",
+      "oneword": "Great",
+      "platforms": ["PC"],
+      "url":
+        "http://www.ign.com/articles/2015/07/01/payday-2-crimewave-edition-review"
+    },
+    {
+      "name": "Peggle 2",
+      "score": "9.0",
+      "description":
+        "Peggle 2 is a joyful follow-up to one of the best puzzle games ever made.",
+      "oneword": "Amazing",
+      "platforms": ["Xbox One", "Xbox 360", "PS4"],
+      "url": "http://www.ign.com/articles/2013/12/09/peggle-2-review"
+    },
+    {
+      "name": "Perception",
+      "score": "4.8",
+      "description":
+        "A great idea squandered on a dull game, Perception's execution repeatedly fails to match its ambition.",
+      "oneword": "Bad",
+      "platforms": ["PS4", "Xbox One", "Switch", "PC"],
+      "url": "http://www.ign.com/articles/2017/05/25/perception-review"
+    },
+    {
+      "name": "Persona 5",
+      "score": "9.7",
+      "description":
+        "A gorgeous, vibrant world and captivating story make Persona 5 a new gold standard for Japanese RPGs.",
+      "oneword": "Amazing",
+      "platforms": ["PS3", "PS4"],
+      "url": "http://www.ign.com/articles/2017/03/29/persona-5-review"
+    },
+    {
+      "name": "Pillars of Eternity: Complete Edition",
+      "score": "8.5",
+      "description":
+        "Other than its epic load times, this console port of Pillars of Eternity lives up to the outstanding PC version.",
+      "oneword": "Great",
+      "platforms": ["Xbox One", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2017/09/05/pillars-of-eternity-complete-edition-review"
+    },
+    {
+      "name": "Pinball Arcade",
+      "score": "9.0",
+      "description":
+        "Pinball Arcade is an excellent starting point for re-experiencing the golden days of quarter-munchers.",
+      "oneword": "Amazing",
+      "platforms": [
+        "Mac",
+        "PC",
+        "Xbox 360",
+        "Ouya",
+        "Xbox One",
+        "Wii U",
+        "iPhone",
+        "New 3DS",
+        "Android",
+        "PS3"
+      ],
+      "url": "http://www.ign.com/articles/2013/11/18/pinball-arcade-review"
+    },
+    {
+      "name": "PlanetSide 2 PS4",
+      "score": "7.6",
+      "description":
+        "PlanetSide 2's massive-scale multiplayer warfare takes some getting used to, but it's a battle well worth fighting.",
+      "oneword": "Good",
+      "platforms": ["PS4", "PC"],
+      "url": "http://www.ign.com/articles/2015/06/26/planetside-2-ps4-review"
+    },
+    {
+      "name": "Plants Vs Zombies: Garden Warfare 2",
+      "score": "8.2",
+      "description":
+        "Plants vs Zombies Garden Warfare 2 is a great online shooter with an unexpected wealth of single-player stuff, too.",
+      "oneword": "Great",
+      "platforms": ["PS4", "Xbox One", "PC"],
+      "url":
+        "http://www.ign.com/articles/2016/02/23/plants-vs-zombies-garden-warfare-2-review"
+    },
+    {
+      "name": "PlayStation VR",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": null,
+      "url": "http://www.ign.com/articles/2016/10/05/playstation-vr-review"
+    },
+    {
+      "name": "PlayStation VR Worlds",
+      "score": "6.0",
+      "description":
+        "Of the five VR experiences in PlayStation VR Worlds, only The London Heist stands out.",
+      "oneword": "Okay",
+      "platforms": ["PS4"],
+      "url":
+        "http://www.ign.com/articles/2016/10/05/playstation-vr-worlds-review"
+    },
+    {
+      "name": "Prey",
+      "score": "8.0",
+      "description":
+        "Prey's space station is fantastically explorable and its shape-shifting enemies maintain tension when combat doesn't.",
+      "oneword": "Great",
+      "platforms": ["PS4", "PC", "Xbox One"],
+      "url": "http://www.ign.com/articles/2017/05/13/prey-review-2"
+    },
+    {
+      "name": "Pro Evolution Soccer 2015",
+      "score": "9.0",
+      "description":
+        "PES returns to the Premier League in its best iteration in years.",
+      "oneword": "Amazing",
+      "platforms": ["Xbox 360", "PS3", "PS4", "Xbox One", "PC"],
+      "url":
+        "http://www.ign.com/articles/2014/11/14/pro-evolution-soccer-2015-review"
+    },
+    {
+      "name": "Pro Evolution Soccer 2016",
+      "score": "9.5",
+      "description":
+        "Small but crucial improvements make PES 2016 a thrilling game of football.",
+      "oneword": "Amazing",
+      "platforms": ["Xbox 360", "PC", "Xbox One", "PS4", "PS3"],
+      "url":
+        "http://www.ign.com/articles/2015/09/14/pro-evolution-soccer-2016-review"
+    },
+    {
+      "name": "Project CARS",
+      "score": "8.9",
+      "description":
+        "Deep and demanding but incredibly user-friendly, Project CARS is real racing done right.",
+      "oneword": "Great",
+      "platforms": ["Xbox One", "Steam", "PC", "PS4", "Wii U"],
+      "url": "http://www.ign.com/articles/2015/05/06/project-cars-review"
+    },
+    {
+      "name": "Project CARS 2",
+      "score": "9.2",
+      "description":
+        "With its refined new handling and piles of race options, Project CARS 2 is about as good as real racing gets right now.",
+      "oneword": "Amazing",
+      "platforms": ["PC", "PS4", "Xbox One"],
+      "url": "http://www.ign.com/articles/2017/09/18/project-cars-2-review"
+    },
+    {
+      "name": "Psychonauts in the Rhombus of Ruin",
+      "score": "7.5",
+      "description":
+        "Psychonauts in the Rhombus of Ruin is a fun, intuitive VR adventure with a great story.",
+      "oneword": "Good",
+      "platforms": ["PS4"],
+      "url":
+        "http://www.ign.com/articles/2017/03/09/psychonauts-in-the-rhombus-of-ruin-review"
+    },
+    {
+      "name": "Pure Chess PS4",
+      "score": "6.0",
+      "description":
+        "Pure Chess is a noble effort, but fails to capture the true essence of chess with lackluster online play.",
+      "oneword": "Okay",
+      "platforms": ["PS3", "3DS", "Xbox One"],
+      "url": "http://www.ign.com/articles/2014/04/15/pure-chess-ps4-review"
+    },
+    {
+      "name": "Puyo Puyo Tetris",
+      "score": "8.7",
+      "description":
+        "Mashing two great things together doesn't always work, but Tetris and Puyo Puyo are a great fit in Puyo Puyo Tetris.",
+      "oneword": "Great",
+      "platforms": ["Xbox One", "Vita", "Wii U"],
+      "url": "http://www.ign.com/articles/2017/04/24/puyo-puyo-tetris-review"
+    },
+    {
+      "name": "Pyre",
+      "score": "9.7",
+      "description":
+        "The stars of deep tactical gameplay and memorable story choices align in Pyre.",
+      "oneword": "Amazing",
+      "platforms": ["PS4", "PC"],
+      "url": "http://www.ign.com/articles/2017/07/24/pyre-review"
+    },
+    {
+      "name": "RAID: WWII",
+      "score": "5.0",
+      "description":
+        "Raid: WWII is a monotonous, dated co-op shooter. It can be fun with a crew of friends, but there are better options.",
+      "oneword": "Mediocre",
+      "platforms": ["PC", "Xbox One", "PS4"],
+      "url": "http://www.ign.com/articles/2017/10/18/raid-wwii-review"
+    },
+    {
+      "name": "Rain World",
+      "score": "6.3",
+      "description":
+        "Rain World nails its oppressive world, but its beauty can't compensate for a design that works against the player.",
+      "oneword": "Okay",
+      "platforms": ["PC", "PS4"],
+      "url": "http://www.ign.com/articles/2017/03/27/rain-world-review"
+    },
+    {
+      "name": "Rainbow Six Siege",
+      "score": "7.9",
+      "description":
+        "Rainbow Six Siege is a blast \u2013 sometimes literally \u2013 but it's plagued by progression issues & a bit lacking in content.",
+      "oneword": "Good",
+      "platforms": ["Xbox One", "PC", "PS4"],
+      "url": "http://www.ign.com/articles/2015/11/30/rainbow-six-siege-review"
+    },
+    {
+      "name": "Ratchet and Clank",
+      "score": "9.0",
+      "description":
+        "Ratchet and Clank is a culmination of everything Insomniac has done with the series over the past 14 years.",
+      "oneword": "Amazing",
+      "platforms": ["PS4"],
+      "url": "http://www.ign.com/articles/2016/04/11/ratchet-and-clank-review"
+    },
+    {
+      "name": "Rayman Legends",
+      "score": "9.5",
+      "description":
+        "Rayman Legends is bursting with creative platforming and fresh ideas.",
+      "oneword": "Amazing",
+      "platforms": ["Wii U", "Xbox One", "Vita"],
+      "url": "http://www.ign.com/articles/2013/08/26/rayman-legends-review"
+    },
+    {
+      "name": "Resident Evil",
+      "score": "8.0",
+      "description":
+        "Resident Evil does a good job of updating the look and feel of a classic survival horror game for a new audience.",
+      "oneword": "Great",
+      "platforms": ["PS3", "Xbox One", "PC", "Xbox 360", "PS4"],
+      "url": "http://www.ign.com/articles/2015/01/19/resident-evil-review"
+    },
+    {
+      "name": "Resident Evil 7: Biohazard",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": null,
+      "url":
+        "http://www.ign.com/articles/2017/01/23/resident-evil-7-biohazard-review"
+    },
+    {
+      "name": "Resogun",
+      "score": "9.0",
+      "description":
+        "Resogun is a smart, speedy game that reinvigorates the shoot \u2018em up genre.",
+      "oneword": "Amazing",
+      "platforms": ["PS3", "Vita", "PS4"],
+      "url": "http://www.ign.com/articles/2013/11/13/resogun-review"
+    },
+    {
+      "name": "Resogun Heroes DLC",
+      "score": "8.5",
+      "description":
+        "PlayStation 4's finest gameplay experience is back with a vengeance with Resogun's Heroes DLC.",
+      "oneword": "Great",
+      "platforms": ["PS4"],
+      "url": "http://www.ign.com/articles/2014/06/26/resogun-heroes-dlc-review"
+    },
+    {
+      "name": "Rez Infinite",
+      "score": "8.2",
+      "description":
+        "With or without the PlayStation VR, Rez Infinite is a trippy, imaginative rail-shooter with a visual style all its own.",
+      "oneword": "Great",
+      "platforms": ["PS4", "PC", "Android"],
+      "url": "http://www.ign.com/articles/2016/10/12/rez-infinite-review"
+    },
+    {
+      "name": "Rigs: Mechanized Combat League",
+      "score": "6.5",
+      "description":
+        "Rigs: Mechanized Combat League delivers fast, intense multiplayer action to PlayStation VR, but with some caveats.",
+      "oneword": "Okay",
+      "platforms": ["PS4"],
+      "url":
+        "http://www.ign.com/articles/2016/10/25/rigs-mechanized-combat-league-review"
+    },
+    {
+      "name": "Rime",
+      "score": "6.5",
+      "description":
+        "Rime is a beautiful but shallow puzzle-platformer that's a bit too derivative.",
+      "oneword": "Okay",
+      "platforms": ["PC", "PS4", "Xbox One", "Switch"],
+      "url": "http://www.ign.com/articles/2017/05/26/rime-review"
+    },
+    {
+      "name": "Rise of the Tomb Raider: 20 Year Celebration",
+      "score": "9.3",
+      "description":
+        "An enduring, enthralling adventure packed in with a few neat additions round out an already amazing game.",
+      "oneword": "Amazing",
+      "platforms": ["PC", "PS4", "Xbox One", "Xbox 360", "Mac"],
+      "url":
+        "http://www.ign.com/articles/2016/10/10/rise-of-the-tomb-raider-20-year-celebration-review"
+    },
+    {
+      "name": "Robinson: The Journey",
+      "score": "5.5",
+      "description":
+        "Frustrating controls keep Robinson: The Journey from being much more than a pretty dinosaur exhibit.",
+      "oneword": "Mediocre",
+      "platforms": ["PC", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2016/11/08/robinson-the-journey-review"
+    },
+    {
+      "name": "Rock Band 4",
+      "score": "8.8",
+      "description":
+        "Rock Band 4 makes smart choices in bringing the series back, even if its setlist is somewhat disappointing.",
+      "oneword": "Great",
+      "platforms": ["PS4", "Xbox One"],
+      "url": "http://www.ign.com/articles/2015/10/05/rock-band-4-review"
+    },
+    {
+      "name": "Rocket League",
+      "score": "9.3",
+      "description":
+        "Rocket League is an energetic mashing of arcade driving and sports, with a sky-high skill ceiling and endless personality.",
+      "oneword": "Amazing",
+      "platforms": ["Switch", "PC", "PS4", "Xbox One"],
+      "url": "http://www.ign.com/articles/2017/12/05/rocket-league-review"
+    },
+    {
+      "name": "Rogue Legacy",
+      "score": "9.0",
+      "description":
+        "A wildly inventive 2D Roguelike with a 30-second gameplay loop that lasts for 20 odd hours.",
+      "oneword": "Amazing",
+      "platforms": ["Xbox One", "PS3", "Vita", "PC", "PS4"],
+      "url": "http://www.ign.com/articles/2013/07/25/rogue-legacy-review"
+    },
+    {
+      "name": "Rory McIlroy PGA Tour",
+      "score": "5.5",
+      "description":
+        "Rory McIlroy PGA Tour is a disappointing golf game that just barely manages to make the cut.",
+      "oneword": "Mediocre",
+      "platforms": ["PS4", "Xbox One"],
+      "url":
+        "http://www.ign.com/articles/2015/07/14/rory-mcilroy-pga-tour-review"
+    },
+    {
+      "name": "Rugby 15",
+      "score": "2.0",
+      "description":
+        "Rugby 15 has more bugs than Starship Troopers and is messier than school-yard mugby.",
+      "oneword": "Painful",
+      "platforms": ["PS4"],
+      "url": "http://www.ign.com/articles/2014/12/04/rugby-15-review"
+    },
+    {
+      "name": "Rugby World Cup 2015",
+      "score": "1.5",
+      "description":
+        "Sorry, rugby fans, this is a horrible, rushed release punted out the door in time for the World Cup.",
+      "oneword": "Unbearable",
+      "platforms": ["PC"],
+      "url":
+        "http://www.ign.com/articles/2015/09/04/rugby-world-cup-2015-review"
+    },
+    {
+      "name": "Ruiner",
+      "score": "6.0",
+      "description":
+        "Ruiner's stylish, frantic, twin-stick action only starts to feel good once it's all over.",
+      "oneword": "Okay",
+      "platforms": ["PC", "Xbox One", "Linux", "Mac", "PS4"],
+      "url": "http://www.ign.com/articles/2017/09/26/ruiner-review"
+    },
+    {
+      "name": "Runner 3",
+      "score": "7.0",
+      "description":
+        "The repetitive nature and dated graphics of Runner 3 bring down what's otherwise a really fun and rewarding experience.",
+      "oneword": "Good",
+      "platforms": ["Switch", "PC"],
+      "url": "http://www.ign.com/articles/2018/05/18/runner-3-review"
+    },
+    {
+      "name": "SEGA Genesis Classics",
+      "score": "7.8",
+      "description":
+        "SEGA Genesis Classics offers a good batch of games and some extra niceties, even if it's missing some first-party hits.",
+      "oneword": "Good",
+      "platforms": ["PS4", "Xbox One", "PC"],
+      "url":
+        "http://www.ign.com/articles/2018/05/29/sega-genesis-classics-review"
+    },
+    {
+      "name": "Saints Row IV: Re-Elected",
+      "score": "7.8",
+      "description":
+        "Saints Row IV: Re-Elected is still an enjoyable, chaotic romp on PS4 and Xbox One, but its improvements are minimal.",
+      "oneword": "Good",
+      "platforms": ["PS4", "Xbox One"],
+      "url":
+        "http://www.ign.com/articles/2015/01/19/saints-row-4-re-elected-review"
+    },
+    {
+      "name": "Secret Ponchos",
+      "score": "7.0",
+      "description":
+        "Secret Ponchos' seemingly simple gunplay is rewardingly deep, but its content is otherwise disappointingly shallow.",
+      "oneword": "Good",
+      "platforms": ["PS4", "PC"],
+      "url": "http://www.ign.com/articles/2014/12/05/secret-ponchos-review"
+    },
+    {
+      "name": "Shadow of the Beast",
+      "score": "7.6",
+      "description":
+        "Bloody, elegant combat and an otherworldly vibe make Shadow of the Beast a successful reboot of the Amiga classic.",
+      "oneword": "Good",
+      "platforms": ["PS4"],
+      "url": "http://www.ign.com/articles/2016/05/16/shadow-of-the-beast-review"
+    },
+    {
+      "name": "Shadow of the Colossus For PS4",
+      "score": "9.7",
+      "description":
+        "Shadow of the Colossus on PS4 is a stunning return to the classic that wowed us in 2005.",
+      "oneword": "Amazing",
+      "platforms": ["PS4"],
+      "url":
+        "http://www.ign.com/articles/2018/01/29/shadow-of-the-colossus-for-ps4-review"
+    },
+    {
+      "name": "Shantae: Half-Genie Hero",
+      "score": "8.0",
+      "description":
+        "Smart level design, eye-popping colors, and unabashed charm make Shantae: Half Genie hero a strong action-platformer.",
+      "oneword": "Great",
+      "platforms": ["Xbox One"],
+      "url":
+        "http://www.ign.com/articles/2016/12/20/shantae-half-genie-hero-review"
+    },
+    {
+      "name": "Sherlock Holmes: Crimes and Punishments",
+      "score": "7.5",
+      "description":
+        "Sherlock Holmes: Crimes and Punishments dazzles visually, but disappoints with murky conclusions to its cases.",
+      "oneword": "Good",
+      "platforms": ["PC", "PS3", "Xbox One", "PS4", "Xbox 360"],
+      "url":
+        "http://www.ign.com/articles/2014/09/30/sherlock-holmes-crimes-and-punishments-review"
+    },
+    {
+      "name": "Sherlock Holmes: The Devil's Daughter",
+      "score": "5.0",
+      "description":
+        "Sherlock Holmes: The Devil's Daughter has good mysteries, but the way you interact with them is rigid and limiting.",
+      "oneword": "Mediocre",
+      "platforms": ["Xbox One", "PS4", "PC"],
+      "url":
+        "http://www.ign.com/articles/2016/06/17/sherlock-holmes-the-devils-daughter-review"
+    },
+    {
+      "name": "Shovel Knight",
+      "score": "9.0",
+      "description":
+        "Shovel Knight -- in all of its old-school glory -- is arguably the best game released so far in 2014.",
+      "oneword": "Amazing",
+      "platforms": [
+        "PC",
+        "Wii U",
+        "Fire TV",
+        "Vita",
+        "Switch",
+        "PS3",
+        "PS4",
+        "3DS",
+        "Mac",
+        "Linux"
+      ],
+      "url": "http://www.ign.com/articles/2014/06/25/shovel-knight-review"
+    },
+    {
+      "name": "Skylanders Imaginators",
+      "score": "6.8",
+      "description":
+        "My inner child was delighted by the creativity, but disappointed by aggressive microtransactions.",
+      "oneword": "Okay",
+      "platforms": ["PS3"],
+      "url":
+        "http://www.ign.com/articles/2016/10/14/skylanders-imaginators-review"
+    },
+    {
+      "name": "Skylanders SuperChargers",
+      "score": "8.0",
+      "description":
+        "Skylanders SuperChargers gets a lot of mileage out of its new vehicles.",
+      "oneword": "Great",
+      "platforms": ["PS3", "iPad"],
+      "url":
+        "http://www.ign.com/articles/2015/09/28/skylanders-superchargers-review"
+    },
+    {
+      "name": "Skylanders Trap Team",
+      "score": "8.2",
+      "description":
+        "Loads of great characters and the return of Skystones make Trap Team one of the best games in the Skylanders series.",
+      "oneword": "Great",
+      "platforms": [
+        "iPad",
+        "Wii U",
+        "Xbox One",
+        "Fire TV",
+        "PS4",
+        "3DS",
+        "Xbox 360",
+        "PS3",
+        "Wii",
+        "Android"
+      ],
+      "url":
+        "http://www.ign.com/articles/2014/10/01/skylanders-trap-team-review"
+    },
+    {
+      "name": "Snake Pass",
+      "score": "7.2",
+      "description":
+        "Snake Pass uses an intuitive control scheme to move like a serpent, but its wonky camera will test your patience.",
+      "oneword": "Good",
+      "platforms": ["Xbox One", "PC", "PS4", "Switch"],
+      "url": "http://www.ign.com/articles/2017/04/04/snake-pass-review"
+    },
+    {
+      "name": "Sniper Elite 4",
+      "score": "8.3",
+      "description":
+        "Sniper Elite 4 is a smart, strategic shooter that empowers you to make your own path.",
+      "oneword": "Great",
+      "platforms": ["Xbox One", "PS4", "PC"],
+      "url": "http://www.ign.com/articles/2017/02/13/sniper-elite-4-review"
+    },
+    {
+      "name": "Sniper Elite III",
+      "score": "8.2",
+      "description":
+        "More than just a showcase for slow-motion gore, Sniper Elite III shines for its open-ended approach to stealth.",
+      "oneword": "Great",
+      "platforms": ["Xbox 360", "PS3", "PS4", "Xbox One", "PC"],
+      "url": "http://www.ign.com/articles/2014/06/26/sniper-elite-iii-review"
+    },
+    {
+      "name": "Sniper: Ghost Warrior 3",
+      "score": "5.5",
+      "description":
+        "Sniper: Ghost Warrior 3 misses the mark with a lack of distinguishing features and hits some technical landmines.",
+      "oneword": "Mediocre",
+      "platforms": ["Xbox One", "PS4", "PC"],
+      "url":
+        "http://www.ign.com/articles/2017/04/27/sniper-ghost-warrior-3-review"
+    },
+    {
+      "name": "Song of the Deep",
+      "score": "6.0",
+      "description":
+        "Insomniac's Song of the Deep is a beautiful Metroidvania robbed of much of its potential magic.",
+      "oneword": "Okay",
+      "platforms": ["Xbox One", "PC", "PS4"],
+      "url": "http://www.ign.com/articles/2016/07/11/song-of-the-deep-review"
+    },
+    {
+      "name": "Sonic Forces",
+      "score": "6.9",
+      "description":
+        "Sonic Forces has a few good ideas for how to move Sonic forward but doesn't build on their momentum.",
+      "oneword": "Okay",
+      "platforms": ["PS4", "PC", "Xbox One", "Switch"],
+      "url": "http://www.ign.com/articles/2017/11/11/sonic-forces-review"
+    },
+    {
+      "name": "Sonic Mania",
+      "score": "8.7",
+      "description":
+        "Sonic Mania is the classic throwback longtime series fans have been clamoring for.",
+      "oneword": "Great",
+      "platforms": ["PS4", "Switch", "Xbox One", "PC"],
+      "url": "http://www.ign.com/articles/2017/08/14/sonic-mania-review"
+    },
+    {
+      "name": "Sound Shapes",
+      "score": "9.0",
+      "description":
+        "No matter where you play it, Sound Shapes is an astounding, unique experience.",
+      "oneword": "Amazing",
+      "platforms": ["Vita", "PS3", "PS4"],
+      "url": "http://www.ign.com/articles/2012/08/07/sound-shapes-review"
+    },
+    {
+      "name": "South Park: The Fractured But Whole",
+      "score": "8.5",
+      "description":
+        "South Park: The Fractured But Whole's excellent combat system pairs well with its true-to-the-show comedy.",
+      "oneword": "Great",
+      "platforms": ["Xbox One", "PC", "PS4", "Switch"],
+      "url":
+        "http://www.ign.com/articles/2017/10/16/south-park-the-fractured-but-whole-review"
+    },
+    {
+      "name": "Splatoon 2: Octo Expansion DLC",
+      "score": "8.8",
+      "description":
+        "Splatoon 2's Octo Expansion provides a great and varied amount of challenges that will put your skills to the test.",
+      "oneword": "Great",
+      "platforms": ["Switch"],
+      "url":
+        "http://www.ign.com/articles/2018/06/20/splatoon-2-octo-expansion-dlc-review"
+    },
+    {
+      "name": "Sportsfriends",
+      "score": "8.7",
+      "description":
+        "With its deep, varied gameplay, Sportsfriends is the most exciting local multiplayer game since Wii Sports.",
+      "oneword": "Great",
+      "platforms": ["PC", "Mac", "Linux", "PS4", "PS3"],
+      "url": "http://www.ign.com/articles/2014/05/14/sportsfriends-review"
+    },
+    {
+      "name": "Star Ocean: Integrity and Faithlessness",
+      "score": "5.8",
+      "description":
+        "The newest Star Ocean is a serviceable JPRG marred by uneven production values and poor A.I.",
+      "oneword": "Mediocre",
+      "platforms": ["PS4", "PS3"],
+      "url":
+        "http://www.ign.com/articles/2016/06/28/star-ocean-integrity-and-faithlessness-review"
+    },
+    {
+      "name": "Star Trek: Bridge Crew",
+      "score": "6.8",
+      "description":
+        "Star Trek: Bridge Crew takes us boldly into the VR frontier, but it lacks the depth and content for an extended voyage.",
+      "oneword": "Okay",
+      "platforms": ["PS4", "PC"],
+      "url":
+        "http://www.ign.com/articles/2017/06/01/star-trek-bridge-crew-review"
+    },
+    {
+      "name": "Star Wars Battlefront",
+      "score": "8.0",
+      "description":
+        "Star Wars Battlefront captures the essence of the original trilogy, but applies it to an uneven set of modes.",
+      "oneword": "Great",
+      "platforms": ["PS4", "Xbox One", "PC"],
+      "url":
+        "http://www.ign.com/articles/2015/11/12/star-wars-battlefront-review"
+    },
+    {
+      "name": "Star Wars Battlefront 2",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": null,
+      "url":
+        "http://www.ign.com/articles/2017/11/17/star-wars-battlefront-2-review"
+    },
+    {
+      "name": "Stardew Valley",
+      "score": "8.8",
+      "description":
+        "Stardew Valley beautifully combines genres to create a captivating small-town life sim.",
+      "oneword": "Great",
+      "platforms": ["PC"],
+      "url": "http://www.ign.com/articles/2016/03/24/stardew-valley-review"
+    },
+    {
+      "name": "SteamWorld Dig 2",
+      "score": "8.8",
+      "description":
+        "SteamWorld Dig 2 retains the core gameplay loop of digging for riches, but layers in stronger RPG elements.",
+      "oneword": "Great",
+      "platforms": ["PS4", "Switch", "PC", "Vita", "3DS"],
+      "url": "http://www.ign.com/articles/2017/09/21/steamworld-dig-2-review"
+    },
+    {
+      "name": "SteamWorld Dig: A Fistful of Dirt",
+      "score": "9.5",
+      "description":
+        "SteamWorld Dig's simple hook and hypnotic rhythm will keep you mining long into the night.",
+      "oneword": "Amazing",
+      "platforms": ["3DS", "Vita", "Mac", "Wii U"],
+      "url":
+        "http://www.ign.com/articles/2013/09/17/steamworld-dig-a-fistful-of-dirt-review"
+    },
+    {
+      "name": "Steep",
+      "score": "7.9",
+      "description":
+        "Steep is a fresh extreme sports journey through a huge map, slowed only by dull paragliding and a lack of progression.",
+      "oneword": "Good",
+      "platforms": ["Switch", "PC", "Xbox One", "PS4"],
+      "url": "http://www.ign.com/articles/2016/12/07/steep-review"
+    },
+    {
+      "name": "Street Fighter 5",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": null,
+      "url": "http://www.ign.com/articles/2016/02/15/street-fighter-5-review"
+    },
+    {
+      "name": "Street Fighter 5: Arcade Edition",
+      "score": "9.0",
+      "description":
+        "With Arcade Edition, Street Fighter 5 finally feels like a complete game, and one that lives up to its legacy.",
+      "oneword": "Amazing",
+      "platforms": ["PC", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2018/01/16/street-fighter-5-arcade-edition-review"
+    },
+    {
+      "name": "Strider",
+      "score": "7.5",
+      "description":
+        "Strider is an unbalanced yet extremely stylish platformer, and the series\u2019 best game since the original.",
+      "oneword": "Good",
+      "platforms": ["PS4", "PS3", "Xbox 360", "PC", "Xbox One"],
+      "url": "http://www.ign.com/articles/2014/02/18/strider-review"
+    },
+    {
+      "name": "Styx: Shards of Darkness",
+      "score": "7.8",
+      "description":
+        "Styx: Shards of Darkness is a challenging stealth adventure with just as much snark as it has sneaking.",
+      "oneword": "Good",
+      "platforms": ["Xbox One", "PC", "PC", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2017/03/14/styx-shards-of-darkness-review"
+    },
+    {
+      "name": "Submerged",
+      "score": "6.8",
+      "description":
+        "Submerged is a non-violent, sometimes beautiful exploration adventure set in a strange, mysterious future.",
+      "oneword": "Okay",
+      "platforms": ["PS4", "PC", "iPhone", "Android", "Xbox One"],
+      "url": "http://www.ign.com/articles/2015/08/07/submerged-review"
+    },
+    {
+      "name": "Sundered",
+      "score": "7.8",
+      "description":
+        "The random nature of Sundered sometimes works against it, but this 2D rogue-lite is an often beautiful challenge.",
+      "oneword": "Good",
+      "platforms": ["PC", "Mac", "PS4", "Linux"],
+      "url": "http://www.ign.com/articles/2017/07/27/sundered-review"
+    },
+    {
+      "name": "Super Mega Baseball",
+      "score": "8.1",
+      "description":
+        "You don\u2019t have to be an \u201880s kid or even a baseball fan to enjoy Super Mega Baseball.",
+      "oneword": "Great",
+      "platforms": ["Xbox One", "PC", "PS3", "PS4"],
+      "url": "http://www.ign.com/articles/2015/01/07/super-mega-baseball-review"
+    },
+    {
+      "name": "Super Motherload",
+      "score": "6.0",
+      "description":
+        "Super Motherload is perhaps PS4\u2019s strangest launch title, but far from being its best.",
+      "oneword": "Okay",
+      "platforms": ["PS4", "PS3", "PC", "Wii", "Mac"],
+      "url": "http://www.ign.com/articles/2013/11/21/super-motherload-review"
+    },
+    {
+      "name": "Superhot VR",
+      "score": "9.0",
+      "description":
+        "Superhot VR's time-warping action is an amazing use of virtual reality, creating the illusion of superhuman reflexes.",
+      "oneword": "Amazing",
+      "platforms": ["PC", "PS4"],
+      "url": "http://www.ign.com/articles/2017/08/04/superhot-vr-review"
+    },
+    {
+      "name": "Superhypercube",
+      "score": "9.0",
+      "description":
+        "Superhypercube is a triumphant arcade game that uses virtual reality in smart, subtle ways.",
+      "oneword": "Amazing",
+      "platforms": ["PS4", "PC"],
+      "url": "http://www.ign.com/articles/2016/10/05/superhypercube-review"
+    },
+    {
+      "name": "Sword Art Online: Hollow Realization",
+      "score": "6.7",
+      "description":
+        "A lack of tangible stakes, and some muddled RPG systems dull the blades of Sword Art Online: Hollow Realization.",
+      "oneword": "Okay",
+      "platforms": ["PS4", "PC", "Vita"],
+      "url":
+        "http://www.ign.com/articles/2016/11/16/sword-art-online-hollow-realization-review"
+    },
+    {
+      "name": "Sword Art Online: Lost Song",
+      "score": "6.0",
+      "description":
+        "Repetitive combat, recycled enemies, and a boring story prevent this action RPG from taking off.",
+      "oneword": "Okay",
+      "platforms": ["PS4", "Vita", "PS3"],
+      "url":
+        "http://www.ign.com/articles/2015/11/17/sword-art-online-lost-song-review"
+    },
+    {
+      "name": "Tales from the Borderlands Episode 1: ZerO Sum",
+      "score": "8.7",
+      "description":
+        "Tales from the Borderlands Episode 1 is a hilarious, fantastic start to Telltale's trip to Pandora",
+      "oneword": "Great",
+      "platforms": ["PC", "PS3", "PS4", "Vita"],
+      "url":
+        "http://www.ign.com/articles/2014/11/25/tales-from-the-borderlands-episode-1-zero-sum-review"
+    },
+    {
+      "name": "Tales of Berseria",
+      "score": "8.8",
+      "description":
+        "It's good to be bad in Tales of Berseria, among the most emotional and darkest of this long-running RPG series.",
+      "oneword": "Great",
+      "platforms": ["PS4", "PS3", "PC"],
+      "url": "http://www.ign.com/articles/2017/01/23/tales-of-berseria-review"
+    },
+    {
+      "name": "Tales of Zestiria",
+      "score": "7.8",
+      "description":
+        "An open-world map and fun new combat features make Tales of Zestiria an enjoyable roleplaying game.",
+      "oneword": "Good",
+      "platforms": ["PS4", "PS3", "PC"],
+      "url": "http://www.ign.com/articles/2015/10/16/tales-of-zestiria-review"
+    },
+    {
+      "name": "Tearaway Unfolded",
+      "score": "7.6",
+      "description":
+        "Tearaway Unfolded is fun and fizzes with ideas, even though some of the original's charm has been lost in translation.",
+      "oneword": "Good",
+      "platforms": ["PS4"],
+      "url": "http://www.ign.com/articles/2015/09/02/tearaway-unfolded-review"
+    },
+    {
+      "name": "Teenage Mutant Ninja Turtles: Mutants in Manhattan",
+      "score": "4.9",
+      "description":
+        "Short, bland, and repetitive, TMNT: Mutants in Manhattan isn't worth playing for its few good gags.",
+      "oneword": "Bad",
+      "platforms": ["Xbox 360", "PS3", "PS4", "PC", "Xbox One"],
+      "url":
+        "http://www.ign.com/articles/2016/05/26/teenage-mutant-ninja-turtles-mutants-in-manhattan-review"
+    },
+    {
+      "name": "Tekken 7",
+      "score": "9.5",
+      "description":
+        "Tekken 7 is a hallmark fighting game that's both accessible and highly technical, with great customization options.",
+      "oneword": "Amazing",
+      "platforms": ["Arcade", "Xbox One", "PS4", "PC"],
+      "url": "http://www.ign.com/articles/2017/06/02/tekken-7-review"
+    },
+    {
+      "name":
+        "Telltale's Batman: The Enemy Within Episode 4 \u2013 What Ails You",
+      "score": "7.5",
+      "description":
+        "The Enemy Within's penultimate episode is a no-frills adventure that starts to tie up the series's loose ends.",
+      "oneword": "Good",
+      "platforms": ["PS4", "Xbox One", "iPhone", "Android", "PC"],
+      "url":
+        "http://www.ign.com/articles/2018/01/22/telltales-batman-the-enemy-within-episode-4-a-what-ails-you-review"
+    },
+    {
+      "name": "Tembo the Badass Elephant",
+      "score": "7.0",
+      "description":
+        "Tembo stumbles at times, but its overall charm, and moments of rhythmic zen keep it fun throughout.",
+      "oneword": "Good",
+      "platforms": ["PS4", "PC", "Xbox One"],
+      "url":
+        "http://www.ign.com/articles/2015/07/30/tembo-the-badass-elephant-review"
+    },
+    {
+      "name": "Tharsis",
+      "score": "4.8",
+      "description":
+        "More interstellar slot machine than simulation, Tharsis relies far too heavily on randomization to be fun.",
+      "oneword": "Bad",
+      "platforms": ["PS4", "PC"],
+      "url": "http://www.ign.com/articles/2016/01/20/tharsis-review"
+    },
+    {
+      "name": "The Amazing Spider-Man 2 Game",
+      "score": "5.4",
+      "description":
+        "It's super-fun to swing around New York City in The Amazing Spider-Man 2! Everything else, on the other hand...",
+      "oneword": "Mediocre",
+      "platforms": ["Xbox One", "Wii U"],
+      "url":
+        "http://www.ign.com/articles/2014/04/30/the-amazing-spider-man-2-game-review"
+    },
+    {
+      "name": "The Binding of Isaac: Rebirth",
+      "score": "9.0",
+      "description":
+        "The creepy-cute dungeons of The Binding of Isaac: Rebirth are amazingly different and challenging every time.",
+      "oneword": "Amazing",
+      "platforms": [
+        "PS4",
+        "New 3DS",
+        "Wii U",
+        "Xbox One",
+        "PC",
+        "Switch",
+        "PS4",
+        "PS3",
+        "Mac",
+        "Vita"
+      ],
+      "url":
+        "http://www.ign.com/articles/2014/11/25/the-binding-of-isaac-rebirth-review"
+    },
+    {
+      "name": "The Crew",
+      "score": "6.0",
+      "description":
+        "The Crew is truly massive and packed with racing but it's let down by its dated appearance and frustrating AI.",
+      "oneword": "Okay",
+      "platforms": ["PS4", "Xbox One", "Xbox 360", "PC"],
+      "url": "http://www.ign.com/articles/2014/12/02/the-crew-review"
+    },
+    {
+      "name": "The Elder Scrolls Online: Summerset",
+      "score": "8.0",
+      "description":
+        "The Elder Scrolls Online returns to another nostalgic location in its Summerset expansion, finding excellent storytelling within.",
+      "oneword": "Great",
+      "platforms": ["PC", "PS4", "Xbox One"],
+      "url":
+        "http://www.ign.com/articles/2018/06/06/the-elder-scrolls-online-summerset-review"
+    },
+    {
+      "name": "The Elder Scrolls Online: Tamriel Unlimited",
+      "score": "8.0",
+      "description":
+        "The Elder Scrolls Online: TU's combat handles well on a gamepad, making it a great way to experience all this content.",
+      "oneword": "Great",
+      "platforms": ["PS4", "Xbox One", "PC", "Mac"],
+      "url":
+        "http://www.ign.com/articles/2015/06/09/the-elder-scrolls-online-tamriel-unlimited-review"
+    },
+    {
+      "name": "The Elder Scrolls V: Skyrim Special Edition",
+      "score": "8.0",
+      "description":
+        "Skyrim: Special Edition recaptures and beautifies the legendary RPG, but leaves room for an even-more-special edition.",
+      "oneword": "Great",
+      "platforms": null,
+      "url":
+        "http://www.ign.com/articles/2016/11/01/the-elder-scrolls-v-skyrim-special-edition-review"
+    },
+    {
+      "name": "The Elder Scrolls V: Skyrim VR",
+      "score": "6.8",
+      "description":
+        "Skyrim VR is at once the best way to experience Skyrim and the worst way to play it.",
+      "oneword": "Okay",
+      "platforms": ["PS4", "PC"],
+      "url":
+        "http://www.ign.com/articles/2017/11/22/the-elder-scrolls-v-skyrim-vr-review"
+    },
+    {
+      "name": "The Evil Within",
+      "score": "8.7",
+      "description":
+        "Superb gameplay, a breakneck pace and terrifying enemies makes The Evil Within a wonderful survival horror experience.",
+      "oneword": "Great",
+      "platforms": ["PC", "Xbox One", "Xbox 360", "PS3", "PS4"],
+      "url": "http://www.ign.com/articles/2014/10/16/the-evil-within-review"
+    },
+    {
+      "name": "The Evil Within: The Assignment",
+      "score": "8.5",
+      "description":
+        "The first part of The Evil Within's DLC is just as good as the main game, with some great twists to the formula.",
+      "oneword": "Great",
+      "platforms": ["Xbox 360", "Xbox One", "PS4", "PC", "PS3"],
+      "url":
+        "http://www.ign.com/articles/2015/03/11/the-evil-within-the-assignment-review"
+    },
+    {
+      "name": "The Golf Club",
+      "score": "7.0",
+      "description":
+        "The Golf Club is a fun way to hit the links for golfing purists and would-be course creators.",
+      "oneword": "Good",
+      "platforms": ["PC", "Xbox One", "PS4"],
+      "url": "http://www.ign.com/articles/2014/08/25/the-golf-club-review"
+    },
+    {
+      "name": "The LEGO Movie Videogame",
+      "score": "6.5",
+      "description":
+        "The LEGO Movie Videogame's diverse backdrops and heroes devolve into tedium and busywork.",
+      "oneword": "Okay",
+      "platforms": [
+        "Xbox 360",
+        "Wii U",
+        "PS4",
+        "PS3",
+        "Vita",
+        "iPhone",
+        "Xbox One",
+        "Mac",
+        "3DS",
+        "PC"
+      ],
+      "url":
+        "http://www.ign.com/articles/2014/02/12/the-lego-movie-videogame-review"
+    },
+    {
+      "name": "The Last Guardian",
+      "score": "7.0",
+      "description":
+        "The Last Guardian is a beautiful, melancholy game filled with the highest highs, and the lowest lows.",
+      "oneword": "Good",
+      "platforms": ["PS4"],
+      "url": "http://www.ign.com/articles/2016/12/05/the-last-guardian-review"
+    },
+    {
+      "name": "The Last of Us: Remastered",
+      "score": "10",
+      "description":
+        "With The Last of Us: Remastered, PlayStation 3\u2019s best game just became PlayStation 4\u2019s, too.",
+      "oneword": "Masterpiece",
+      "platforms": null,
+      "url":
+        "http://www.ign.com/articles/2014/07/28/the-last-of-us-remastered-review"
+    },
+    {
+      "name": "The Order: 1886",
+      "score": "6.5",
+      "description":
+        "Though a stylish adventure, The Order: 1886 emphasizes its cinematic polish at the crippling cost of gameplay freedom.",
+      "oneword": "Okay",
+      "platforms": ["PS4"],
+      "url": "http://www.ign.com/articles/2015/02/19/the-order-1886-review"
+    },
+    {
+      "name": "The Park",
+      "score": "7.0",
+      "description":
+        "While it doesn't reinvent the wheel, The Park manages to deliver a ton of great scares.",
+      "oneword": "Good",
+      "platforms": ["PC", "Xbox One", "PS4"],
+      "url": "http://www.ign.com/articles/2016/05/03/the-park-review"
+    },
+    {
+      "name": "The Sims 4 Xbox One and PlayStation 4",
+      "score": "5.5",
+      "description":
+        "The Sims 4 for consoles would be as fun and addictive as the PC version if not for serious save, performance, and UI bugs.",
+      "oneword": "Mediocre",
+      "platforms": ["Mac", "Xbox One", "PS4", "PC"],
+      "url":
+        "http://www.ign.com/articles/2017/11/20/the-sims-4-xbox-one-and-playstation-4-review"
+    },
+    {
+      "name": "The Surge",
+      "score": "7.9",
+      "description":
+        "The Surge struggles to present a compelling campaign, but delivers a fun new take on a familiar genre.",
+      "oneword": "Good",
+      "platforms": ["Xbox One", "PC", "PS4"],
+      "url": "http://www.ign.com/articles/2017/05/15/the-surge-review"
+    },
+    {
+      "name": "The Swapper",
+      "score": "9.3",
+      "description":
+        "The Swapper tempted me with ingenious puzzles and made me question mortality and morality in a way few games ever have.",
+      "oneword": "Amazing",
+      "platforms": ["PC", "PS3", "PS4"],
+      "url": "http://www.ign.com/articles/2013/05/31/the-swapper-review"
+    },
+    {
+      "name": "The Tomorrow Children",
+      "score": "5.2",
+      "description":
+        "The Tomorrow Children puts a stylish if superficial veneer on a familiar and repetitive game design format.",
+      "oneword": "Mediocre",
+      "platforms": ["PS4"],
+      "url":
+        "http://www.ign.com/articles/2016/10/07/the-tomorrow-children-review"
+    },
+    {
+      "name": "The Vanishing of Ethan Carter PS4",
+      "score": "8.5",
+      "description":
+        "The Vanishing of Ethan Carter on PS4 is just as powerful and beautiful as its PC counterpart.",
+      "oneword": "Great",
+      "platforms": ["PC", "PS4", "Xbox One"],
+      "url":
+        "http://www.ign.com/articles/2015/07/24/the-vanishing-of-ethan-carter-ps4-review"
+    },
+    {
+      "name": "The Walking Dead: A Telltale Game Series -- Season 2",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": ["PS3", "Xbox One", "Xbox 360"],
+      "url":
+        "http://www.ign.com/articles/2014/12/31/the-walking-dead-a-telltale-game-series-season-2-review"
+    },
+    {
+      "name": "The Witcher 3",
+      "score": "9.3",
+      "description":
+        "Massive in size, and meticulously detailed, The Witcher 3 ends Geralt's story on a high note.",
+      "oneword": "Amazing",
+      "platforms": ["Xbox One", "PC", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2015/05/12/the-witcher-3-the-wild-hunt-review"
+    },
+    {
+      "name": "The Witcher 3: Hearts of Stone",
+      "score": "9.0",
+      "description":
+        "The Witcher 3: Hearts of Stone wraps an interesting story and great gameplay additions into one well-rounded expansion.",
+      "oneword": "Amazing",
+      "platforms": ["Xbox One", "PC", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2015/10/08/the-witcher-3-hearts-of-stone-review"
+    },
+    {
+      "name": "The Witcher 3: Wild Hunt - Blood and Wine",
+      "score": "9.0",
+      "description":
+        "Geralt gets a fitting sendoff in The Witcher 3: Wild Hunt - Blood and Wine, courtesy of a strong cast and new items.",
+      "oneword": "Amazing",
+      "platforms": ["Xbox One", "PS4", "PC"],
+      "url":
+        "http://www.ign.com/articles/2016/05/25/the-witcher-3-wild-hunt-blood-and-wine-review"
+    },
+    {
+      "name": "The Witness",
+      "score": "10",
+      "description":
+        "A beautiful, powerful, and cleverly designed puzzle game with a wealth of mysteries to unravel.",
+      "oneword": "Masterpiece",
+      "platforms": ["PC", "iPad", "PS4", "Xbox One"],
+      "url": "http://www.ign.com/articles/2016/01/25/the-witness-review"
+    },
+    {
+      "name": "Thief",
+      "score": "6.8",
+      "description":
+        "Thief has good stealth going for it, but everything connecting its few relatively open scenarios is a mess.",
+      "oneword": "Okay",
+      "platforms": ["PS3", "Xbox 360", "PC", "PS4", "Xbox One"],
+      "url": "http://www.ign.com/articles/2014/02/24/thief-review"
+    },
+    {
+      "name": "Thumper",
+      "score": "9.0",
+      "description":
+        "Thumper's trippy sights, sounds, and intense rhythm action create a terrifying VR experience I won't soon forget.",
+      "oneword": "Amazing",
+      "platforms": ["Xbox One", "PS4", "PC", "Switch"],
+      "url": "http://www.ign.com/articles/2016/10/05/thumper-vr-review"
+    },
+    {
+      "name": "Tiny Brains",
+      "score": "4.5",
+      "description":
+        "Tiny Brains is a puzzle game with an interesting premise smothered beneath frustrating mechanics and repetitive design.",
+      "oneword": "Bad",
+      "platforms": ["PC", "PS4", "Xbox 360", "PS3"],
+      "url": "http://www.ign.com/articles/2013/12/03/tiny-brains-review"
+    },
+    {
+      "name": "Titan Attacks!",
+      "score": "7.5",
+      "description":
+        "Titan Attacks is an enjoyable ode to Space Invaders, and a good way to waste some time on PS3, PS4, and Vita.",
+      "oneword": "Good",
+      "platforms": ["Vita", "PC", "PS4", "3DS", "PS3"],
+      "url": "http://www.ign.com/articles/2014/05/12/titan-attacks-review"
+    },
+    {
+      "name": "Titan Souls",
+      "score": "8.0",
+      "description":
+        "Titan Souls' creative fights and fluid controls make for intensely satisfying and rewarding one-hit-kill combat.",
+      "oneword": "Great",
+      "platforms": ["Mac", "PC", "Vita", "Linux", "PS4"],
+      "url": "http://www.ign.com/articles/2015/04/13/titan-souls-review"
+    },
+    {
+      "name": "Titanfall 2",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": null,
+      "url": "http://www.ign.com/articles/2016/10/28/titanfall-2-review"
+    },
+    {
+      "name": "Tom Clancy's The Division",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": null,
+      "url": "http://www.ign.com/articles/2016/03/16/the-division-review"
+    },
+    {
+      "name": "Tomb Raider: Definitive Edition",
+      "score": "9.1",
+      "description":
+        "TR: Definitive Edition\u2019s good looks are a bonus. It\u2019s still Lara, great pacing, and clever design that make it amazing.",
+      "oneword": "Amazing",
+      "platforms": ["PS4", "Xbox One"],
+      "url":
+        "http://www.ign.com/articles/2014/01/24/tomb-raider-definitive-edition-review"
+    },
+    {
+      "name": "Tony Hawk\u2019s Pro Skater 5",
+      "score": "3.5",
+      "description":
+        "Tony Hawk\u2019s Pro Skater 5\u2019s rare moments of nostalgic joy are drowned out by its abundance of faults.",
+      "oneword": "Awful",
+      "platforms": ["PS4", "PS3", "Xbox 360", "Xbox One"],
+      "url":
+        "http://www.ign.com/articles/2015/10/02/tony-hawks-pro-skater-5-review"
+    },
+    {
+      "name": "Torment: Tides of Numenera",
+      "score": "8.8",
+      "description":
+        "Torment: Tides of Numenera delivers a deep and satisfyingly strange RPG world loaded with text-based storytelling.",
+      "oneword": "Great",
+      "platforms": ["Xbox One", "PC", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2017/02/28/torment-tides-of-numenera-review"
+    },
+    {
+      "name": "TowerFall Ascension",
+      "score": "8.9",
+      "description":
+        "Towerfall\u2019s fun multiplayer sets up hilarious face-offs with your friends.",
+      "oneword": "Great",
+      "platforms": ["PC"],
+      "url": "http://www.ign.com/articles/2014/03/25/towerfall-review"
+    },
+    {
+      "name": "Trackmania Turbo",
+      "score": "8.4",
+      "description":
+        "Trackmania Turbo is fast, frenetic, fun, and only occasionally frustrating. A brilliant arcade stunt racer.",
+      "oneword": "Great",
+      "platforms": ["PC", "Xbox One", "PS4"],
+      "url": "http://www.ign.com/articles/2016/03/24/trackmania-turbo-review"
+    },
+    {
+      "name": "Transformers Devastation",
+      "score": "7.7",
+      "description":
+        "Transformers Devastation\u2019s nostalgia-fueled fisticuffs are a fun way to revisit the classic TV show.",
+      "oneword": "Good",
+      "platforms": ["PS3", "PS4", "Xbox 360", "Xbox One", "PC"],
+      "url":
+        "http://www.ign.com/articles/2015/10/08/transformers-devastation-review"
+    },
+    {
+      "name": "Transformers: Rise of the Dark Spark",
+      "score": "4.9",
+      "description":
+        "A good Transformers game has good transforming and good robot-blasting. Rise of the Dark Spark has neither.",
+      "oneword": "Bad",
+      "platforms": ["Xbox One", "Wii U"],
+      "url":
+        "http://www.ign.com/articles/2014/06/27/transformers-rise-of-the-dark-spark-review"
+    },
+    {
+      "name": "Transistor",
+      "score": "9.0",
+      "description":
+        "Transistor is a wildly smart action-RPG that places all of its trust into your intelligence.",
+      "oneword": "Amazing",
+      "platforms": ["PS4", "PC", "iPhone"],
+      "url": "http://www.ign.com/articles/2014/05/20/transistor-review"
+    },
+    {
+      "name": "Trials Fusion",
+      "score": "8.2",
+      "description":
+        "Trials Fusion\u2019s precision controls and exacting challenge make it a great pickup for leaderboard perfectionists.",
+      "oneword": "Great",
+      "platforms": ["Xbox One", "PS4", "Xbox 360", "PC"],
+      "url": "http://www.ign.com/articles/2014/04/16/trials-fusion-review"
+    },
+    {
+      "name": "Trials of The Blood Dragon",
+      "score": "6.9",
+      "description":
+        "Trials of the Blood Dragon has a handful of insanely great stunt moments, but also some bad on-foot sections.",
+      "oneword": "Okay",
+      "platforms": ["PS4", "Xbox One", "PC"],
+      "url":
+        "http://www.ign.com/articles/2016/06/17/trials-of-the-blood-dragon-review"
+    },
+    {
+      "name": "Trove",
+      "score": "6.2",
+      "description":
+        "Trove is a blocky Minecraft-style MMO that's best in short bursts but grinds in the long run.",
+      "oneword": "Okay",
+      "platforms": ["Xbox One", "PC", "PS4"],
+      "url": "http://www.ign.com/articles/2017/04/11/trove-review"
+    },
+    {
+      "name": "Tumble VR",
+      "score": "5.8",
+      "description":
+        "Some of Tumble VR's puzzles are clever, but at the end of the day, we're just stacking blocks.",
+      "oneword": "Mediocre",
+      "platforms": ["PS4"],
+      "url": "http://www.ign.com/articles/2016/10/12/tumble-vr-review"
+    },
+    {
+      "name": "Umbrella Corps",
+      "score": "3.8",
+      "description":
+        "Umbrella Corps is a black mark on the Resident Evil series' record.",
+      "oneword": "Awful",
+      "platforms": ["PS4", "PC"],
+      "url": "http://www.ign.com/articles/2016/06/24/umbrella-corps-review"
+    },
+    {
+      "name": "Uncharted 4: A Thief's End",
+      "score": "9.0",
+      "description":
+        "Peerless visuals, slick gameplay and a confident story make Nathan Drake's final adventure one to remember.",
+      "oneword": "Amazing",
+      "platforms": ["PS4"],
+      "url":
+        "http://www.ign.com/articles/2016/05/10/uncharted-4-a-thiefs-end-review"
+    },
+    {
+      "name": "Uncharted: The Lost Legacy",
+      "score": "7.5",
+      "description":
+        "Uncharted: The Lost Legacy succeeds on the strength of its characters and writing.",
+      "oneword": "Good",
+      "platforms": ["PS4"],
+      "url":
+        "http://www.ign.com/articles/2017/08/16/uncharted-the-lost-legacy-review"
+    },
+    {
+      "name": "Uncharted: The Nathan Drake Collection",
+      "score": "9.0",
+      "description":
+        "Every game in Uncharted: The Nathan Drake Collection has aged well, thanks to an excellent visual remaster.",
+      "oneword": "Amazing",
+      "platforms": ["PS4"],
+      "url":
+        "http://www.ign.com/articles/2015/09/30/uncharted-the-nathan-drake-collection-review"
+    },
+    {
+      "name": "Undertale",
+      "score": "10",
+      "description":
+        "It might not be pretty, but Undertale is absolutely a work of art.",
+      "oneword": "Masterpiece",
+      "platforms": ["Vita", "Switch", "PC", "Mac", "PS4"],
+      "url": "http://www.ign.com/articles/2017/08/15/undertale-review"
+    },
+    {
+      "name": "Unravel",
+      "score": "8.3",
+      "description":
+        "Unravel combines nature and nostalgia to great effect in this moving puzzle adventure.",
+      "oneword": "Great",
+      "platforms": ["Xbox One", "PC", "PS4"],
+      "url": "http://www.ign.com/articles/2016/02/08/unravel-review"
+    },
+    {
+      "name": "Unravel Two",
+      "score": "8.5",
+      "description":
+        "Unravel Two improves on the original in almost every respect, with better platforming and puzzles.",
+      "oneword": "Great",
+      "platforms": ["PS4", "Xbox One", "PC"],
+      "url": "http://www.ign.com/articles/2018/06/12/unravel-two-review"
+    },
+    {
+      "name": "Until Dawn",
+      "score": "7.5",
+      "description":
+        "Until Dawn is an inconsistent horror game, but it's still a heck of a lot of fun.",
+      "oneword": "Good",
+      "platforms": ["PS4"],
+      "url": "http://www.ign.com/articles/2015/08/24/until-dawn-review"
+    },
+    {
+      "name": "Until Dawn: Rush of Blood",
+      "score": "6.0",
+      "description":
+        "Until Dawn: Rush of Blood lacks scares or thrills as a rail shooter, but there's some fun in its arcade-style shooting.",
+      "oneword": "Okay",
+      "platforms": ["PS4"],
+      "url":
+        "http://www.ign.com/articles/2016/10/05/until-dawn-rush-of-blood-review"
+    },
+    {
+      "name": "Valiant Hearts: The Great War",
+      "score": "7.7",
+      "description":
+        "Valiant Hearts is an adventure more interested in exploring the effects of war, than having you re-enact the violence.",
+      "oneword": "Good",
+      "platforms": ["PC", "Android"],
+      "url":
+        "http://www.ign.com/articles/2014/06/24/valiant-hearts-the-great-war-review"
+    },
+    {
+      "name": "Valkyria Chronicles Remastered",
+      "score": "9.0",
+      "description":
+        "Both beautiful and unique, Valkyria Chronicles Remastered looks and plays great alongside contemporary strategy games.",
+      "oneword": "Amazing",
+      "platforms": null,
+      "url":
+        "http://www.ign.com/articles/2016/05/10/valkyria-chronicles-remastered-review"
+    },
+    {
+      "name": "Valkyria Revolution",
+      "score": "6.0",
+      "description":
+        "Valkyria Revolution tells a decent tale of war but offers little in the way of strategy.",
+      "oneword": "Okay",
+      "platforms": ["Xbox One", "Vita", "PS4"],
+      "url": "http://www.ign.com/articles/2017/06/26/valkyria-revolution-review"
+    },
+    {
+      "name": "Valley",
+      "score": "5.0",
+      "description":
+        "Fun, fast, first-person platforming that's spaced too far apart by empty environments and forgettable combat.",
+      "oneword": "Mediocre",
+      "platforms": ["Xbox One", "PC", "PS4"],
+      "url": "http://www.ign.com/articles/2016/08/24/valley-review"
+    },
+    {
+      "name": "Vampyr",
+      "score": "7.0",
+      "description":
+        "Despite some technical issues and systems that are undercut by a lack of difficulty, Vampyr is a genuine, good vampire story in a well-realized world.",
+      "oneword": "Good",
+      "platforms": ["Xbox One", "PC", "PS4"],
+      "url": "http://www.ign.com/articles/2018/06/04/vampyr-review"
+    },
+    {
+      "name": "Velocity 2X",
+      "score": "9.0",
+      "description":
+        "Velocity 2X successfully  builds upon the speed of the original with its awesome new side-scrolling sections.",
+      "oneword": "Amazing",
+      "platforms": ["Linux"],
+      "url": "http://www.ign.com/articles/2014/09/02/velocity-2x-review"
+    },
+    {
+      "name": "Volume",
+      "score": "8.1",
+      "description":
+        "A few easy levels can't overshadow the sheer amount of Volume's content and variety.",
+      "oneword": "Great",
+      "platforms": ["PC", "PS4", "Vita"],
+      "url": "http://www.ign.com/articles/2015/08/18/volume-review"
+    },
+    {
+      "name": "WRC 6",
+      "score": "7.1",
+      "description":
+        "WRC 6 remains outclassed by Dirt Rally but its long, narrow stages help make it the best WRC game in a decade.",
+      "oneword": "Good",
+      "platforms": ["PC", "PS4", "Xbox One"],
+      "url": "http://www.ign.com/articles/2016/10/12/wrc-6-review"
+    },
+    {
+      "name": "WRC 7",
+      "score": "7.3",
+      "description":
+        "WRC 7's career runs out of surprises but it\u2019s worth playing for its excellent courses, especially its huge Epic Stages.",
+      "oneword": "Good",
+      "platforms": ["PS4", "PC", "Xbox One"],
+      "url": "http://www.ign.com/articles/2017/11/08/wrc-7-review"
+    },
+    {
+      "name": "WWE 2K15 PlayStation 4 and Xbox One",
+      "score": "7.0",
+      "description":
+        "WWE 2K15 looks better and hits harder on new-gen, but some key omissions keep it from reaching the main-event.",
+      "oneword": "Good",
+      "platforms": ["PS4", "Xbox One", "PS3", "Xbox 360", "PC"],
+      "url":
+        "http://www.ign.com/articles/2014/11/17/wwe-2k15-review-ps4xbox-one"
+    },
+    {
+      "name": "WWE 2K16",
+      "score": "8.8",
+      "description":
+        "WWE 2K16 is a true in-ring technician, and its feature set has taken a big step in the right direction.",
+      "oneword": "Great",
+      "platforms": ["PS3", "PS4", "Xbox 360", "Xbox One", "PC"],
+      "url": "http://www.ign.com/articles/2015/10/30/wwe-2k16-review"
+    },
+    {
+      "name": "WWE 2K17",
+      "score": "8.2",
+      "description":
+        "The loss of the 2K Showcase is unfortunate, but WWE 2K17s gameplay tweaks, and already strong feature-set save the day.",
+      "oneword": "Great",
+      "platforms": ["PS3", "PC", "PS4", "Xbox 360", "Xbox One"],
+      "url": "http://www.ign.com/articles/2016/10/17/wwe-2k17-review"
+    },
+    {
+      "name": "WWE 2K18",
+      "score": "7.0",
+      "description":
+        "WWE 2K18's new graphics engine makes a big frog splash, but the dull MyCareer mode may put you in a sleeper hold.",
+      "oneword": "Good",
+      "platforms": ["Switch", "Xbox One", "PS4", "PC"],
+      "url": "http://www.ign.com/articles/2017/10/17/wwe-2k18-review"
+    },
+    {
+      "name": "War Thunder",
+      "score": "7.2",
+      "description":
+        "War Thunder soars high, even with the weight of its bloated menus holding it down.",
+      "oneword": "Good",
+      "platforms": ["PS4", "PC", "Xbox One", "Mac"],
+      "url": "http://www.ign.com/articles/2014/06/20/war-thunder-review"
+    },
+    {
+      "name": "Warframe PlayStation 4",
+      "score": "7.5",
+      "description":
+        "Warframe's great co-op combat is a big draw, but its repetition and free-to-play model limit the fun.",
+      "oneword": "Good",
+      "platforms": ["PC", "Xbox One", "PS4"],
+      "url": "http://www.ign.com/articles/2013/12/04/warframe-review-2"
+    },
+    {
+      "name": "Warhammer 40K: Inquisitor - Martyr",
+      "score": "6.0",
+      "description":
+        "Blasting through the grim world of Warhammer 40K always has appeal, but bizarre itemization and repetitive combat bring Inquisitor - Martyr down a few notches.",
+      "oneword": "Okay",
+      "platforms": ["PS4", "Mac", "Xbox One", "PC"],
+      "url":
+        "http://www.ign.com/articles/2018/06/19/warhammer-40k-inquisitor-martyr-review"
+    },
+    {
+      "name": "Warhammer: End Times - Vermintide",
+      "score": "7.2",
+      "description":
+        "Vermintide is a competent, Warhammer-flavored twist on the Left 4 Dead formula.",
+      "oneword": "Good",
+      "platforms": ["PC", "PS4", "Xbox One"],
+      "url":
+        "http://www.ign.com/articles/2015/10/28/warhammer-end-times-vermintide-review"
+    },
+    {
+      "name": "Wasteland 2: Director's Cut",
+      "score": "8.5",
+      "description":
+        "Wasteland 2: Director's Cut is strong console adaptation of a great old-school roleplaying game.",
+      "oneword": "Great",
+      "platforms": ["PC"],
+      "url":
+        "http://www.ign.com/articles/2015/10/13/wasteland-2-directors-cut-review"
+    },
+    {
+      "name": "Watch Dogs",
+      "score": "8.4",
+      "description":
+        "Watch Dogs is an excellent open-world action game with some unique hacking-magic that makes it a memorable experience.",
+      "oneword": "Great",
+      "platforms": ["PS3"],
+      "url": "http://www.ign.com/articles/2014/05/27/watch-dogs-review"
+    },
+    {
+      "name": "Watch Dogs 2",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": null,
+      "url": "http://www.ign.com/articles/2016/11/23/watch-dogs-2-review"
+    },
+    {
+      "name": "Wayward Sky",
+      "score": "7.3",
+      "description":
+        "With strong art direction, and a solid grasp of what makes VR absorbing, Wayward Sky is a warm, simple pleasure.",
+      "oneword": "Good",
+      "platforms": ["PS4"],
+      "url": "http://www.ign.com/articles/2016/10/05/wayward-sky-review"
+    },
+    {
+      "name": "Werewolves Within",
+      "score": "6.0",
+      "description":
+        "Werewolves Within is an engrossing, friendly, social VR experience that's let down by some seriously inhibiting bugs.",
+      "oneword": "Okay",
+      "platforms": ["PS4", "PC"],
+      "url": "http://www.ign.com/articles/2016/12/16/werewolves-within-review"
+    },
+    {
+      "name": "What Remains of Edith Finch",
+      "score": "8.8",
+      "description":
+        "What Remains of Edith Finch is a gorgeous experience and one of the finest magical-realism stories in all of games",
+      "oneword": "Great",
+      "platforms": ["PC", "Xbox One", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2017/04/26/what-remains-of-edith-finch-review"
+    },
+    {
+      "name": "Whispering Willows",
+      "score": "5.8",
+      "description":
+        "Despite some good ideas and cool design choices, Whispering Willows can't deliver a wholly fulfilling experience.",
+      "oneword": "Mediocre",
+      "platforms": ["Vita", "iPhone", "PC", "Linux"],
+      "url": "http://www.ign.com/articles/2015/07/02/whispering-willows-review"
+    },
+    {
+      "name": "Wolfenstein 2: The New Colossus",
+      "score": "9.1",
+      "description":
+        "The excellent shooting action in Wolfenstein: The New Colossus is paired with a fantastically written and acted story.",
+      "oneword": "Amazing",
+      "platforms": ["PC", "Switch", "Xbox One", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2017/10/28/wolfenstein-2-the-new-colossus-review"
+    },
+    {
+      "name": "Wolfenstein: The New Order",
+      "score": "7.8",
+      "description":
+        "Wolfenstein: The New Order's emphasis on storytelling and characters make it a shooter worth playing.",
+      "oneword": "Good",
+      "platforms": ["Xbox 360", "PC", "PS3", "PS4", "Xbox One"],
+      "url":
+        "http://www.ign.com/articles/2014/05/19/wolfenstein-the-new-order-review"
+    },
+    {
+      "name": "Wolfenstein: The Old Blood",
+      "score": "7.0",
+      "description":
+        "Wolfenstein: The Old Blood doubles down on blood and guts, but in doing so sacrifices some of its heart.",
+      "oneword": "Good",
+      "platforms": ["PC", "Xbox One", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2015/05/08/wolfenstein-the-old-blood-review"
+    },
+    {
+      "name": "Wonder Boy: The Dragon's Trap",
+      "score": "7.1",
+      "description":
+        "It may be a bit dated, but this great-looking remake of a wacky classic is still engaging and fun after 30 years.",
+      "oneword": "Good",
+      "platforms": ["Xbox One", "PS4", "Switch", "PC"],
+      "url":
+        "http://www.ign.com/articles/2017/04/17/wonder-boy-the-dragons-trap-review"
+    },
+    {
+      "name": "World of Final Fantasy",
+      "score": "7.0",
+      "description":
+        "World of Final Fantasy's adorable critters make up for its lack of exploration and repetitive combat.",
+      "oneword": "Good",
+      "platforms": ["PS4", "Vita", "PC"],
+      "url":
+        "http://www.ign.com/articles/2016/10/25/world-of-final-fantasy-review"
+    },
+    {
+      "name": "Worms WMD",
+      "score": "7.8",
+      "description":
+        "Don't overlook Worms WMD. These cute-looking creatures are big fun on the battlefield.",
+      "oneword": "Good",
+      "platforms": ["PS4", "Xbox One", "Switch", "PC"],
+      "url": "http://www.ign.com/articles/2016/08/26/worms-wmd-review"
+    },
+    {
+      "name": "XCOM 2",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": null,
+      "url": "http://www.ign.com/articles/2016/02/01/xcom-2-review"
+    },
+    {
+      "name": "Yakuza 0",
+      "score": "8.5",
+      "description":
+        "Yakuza 0 is a big, bold and bruising tour through the Japanese underworld.",
+      "oneword": "Great",
+      "platforms": ["PS4", "PC", "PS3"],
+      "url": "http://www.ign.com/articles/2017/01/19/yakuza-0-review"
+    },
+    {
+      "name": "Yakuza 6: The Song of Life",
+      "score": "7.5",
+      "description":
+        "Yakuza 6\u2019s story is another satisfying serving of the Japanese crime saga, but its gameplay is short on substance.",
+      "oneword": "Good",
+      "platforms": ["PS4"],
+      "url":
+        "http://www.ign.com/articles/2018/03/15/yakuza-6-the-song-of-life-review"
+    },
+    {
+      "name": "Yakuza Kiwami",
+      "score": "7.9",
+      "description":
+        "Yakuza Kiwami gives the first game in the Japanese underworld series a quality makeover, but leaves a lot on the table.",
+      "oneword": "Good",
+      "platforms": ["PS4", "PS3", "PC"],
+      "url": "http://www.ign.com/articles/2017/08/21/yakuza-kiwami-review"
+    },
+    {
+      "name": "Yoku's Island Express",
+      "score": "8.0",
+      "description":
+        "Yoku\u2019s Island Express is a novel Metroidvania-pinball hybrid that stands as something wholly unique and incredibly fun.",
+      "oneword": "Great",
+      "platforms": ["PC", "Switch", "Xbox One", "PS4"],
+      "url":
+        "http://www.ign.com/articles/2018/05/29/yokus-island-express-review"
+    }
+  ],
+  "emptyFields": [
+    {
+      "name": "Mighty No. 9",
+      "score": "5.6",
+      "description":
+        "Charmless and full of poorly-executed ideas, Mighty No. 9 fails to entertain despite its legendary pedigree.",
+      "oneword": "Mediocre",
+      "platforms": null,
+      "url": "http://www.ign.com/articles/2016/06/20/mighty-no-9-review"
+    },
+    {
+      "name": "No Man's Sky",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": null,
+      "url": "http://www.ign.com/articles/2016/08/12/no-mans-sky-review"
+    },
+    {
+      "name": "PlayStation VR",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": null,
+      "url": "http://www.ign.com/articles/2016/10/05/playstation-vr-review"
+    },
+    {
+      "name": "Mass Effect: Andromeda",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": null,
+      "url":
+        "http://www.ign.com/articles/2017/03/20/mass-effect-andromeda-review"
+    },
+    {
+      "name": "Dishonored 2",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": null,
+      "url": "http://www.ign.com/articles/2016/11/13/dishonored-2-review"
+    },
+    {
+      "name": "Assassin's Creed Origins",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": null,
+      "url":
+        "http://www.ign.com/articles/2017/10/26/assassins-creed-origins-review"
+    },
+    {
+      "name": "Middle-earth: Shadow of War",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": null,
+      "url":
+        "http://www.ign.com/articles/2017/10/05/middle-earth-shadow-of-war-review"
+    },
+    {
+      "name": "The Elder Scrolls V: Skyrim Special Edition",
+      "score": "8.0",
+      "description":
+        "Skyrim: Special Edition recaptures and beautifies the legendary RPG, but leaves room for an even-more-special edition.",
+      "oneword": "Great",
+      "platforms": null,
+      "url":
+        "http://www.ign.com/articles/2016/11/01/the-elder-scrolls-v-skyrim-special-edition-review"
+    },
+    {
+      "name": "Valkyria Chronicles Remastered",
+      "score": "9.0",
+      "description":
+        "Both beautiful and unique, Valkyria Chronicles Remastered looks and plays great alongside contemporary strategy games.",
+      "oneword": "Amazing",
+      "platforms": null,
+      "url":
+        "http://www.ign.com/articles/2016/05/10/valkyria-chronicles-remastered-review"
+    },
+    {
+      "name": "Street Fighter 5",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": null,
+      "url": "http://www.ign.com/articles/2016/02/15/street-fighter-5-review"
+    },
+    {
+      "name": "Darkest Dungeon",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": null,
+      "url": "http://www.ign.com/articles/2016/01/26/darkest-dungeon-review"
+    },
+    {
+      "name": "Watch Dogs 2",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": null,
+      "url": "http://www.ign.com/articles/2016/11/23/watch-dogs-2-review"
+    },
+    {
+      "name": "Nier: Automata",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": null,
+      "url": "http://www.ign.com/articles/2017/03/06/nier-automata-review"
+    },
+    {
+      "name": "Fallout 4",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": null,
+      "url": "http://www.ign.com/articles/2015/11/09/fallout-4-review"
+    },
+    {
+      "name": "Titanfall 2",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": null,
+      "url": "http://www.ign.com/articles/2016/10/28/titanfall-2-review"
+    },
+    {
+      "name": "Okami HD",
+      "score": "9.4",
+      "description": "",
+      "oneword": "Amazing",
+      "platforms": null,
+      "url": "http://www.ign.com/articles/2012/10/30/okami-hd-review"
+    },
+    {
+      "name": "Call of Duty: WW2",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": null,
+      "url": "http://www.ign.com/articles/2017/11/07/call-of-duty-ww2-review"
+    },
+    {
+      "name": "Far Cry Primal",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": null,
+      "url": "http://www.ign.com/articles/2016/02/22/far-cry-primal-review"
+    },
+    {
+      "name": "Tom Clancy's The Division",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": null,
+      "url": "http://www.ign.com/articles/2016/03/16/the-division-review"
+    },
+    {
+      "name": "The Walking Dead: A Telltale Game Series -- Season 2",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": ["PS3", "Xbox One", "Xbox 360"],
+      "url":
+        "http://www.ign.com/articles/2014/12/31/the-walking-dead-a-telltale-game-series-season-2-review"
+    },
+    {
+      "name": "Resident Evil 7: Biohazard",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": null,
+      "url":
+        "http://www.ign.com/articles/2017/01/23/resident-evil-7-biohazard-review"
+    },
+    {
+      "name": "Star Wars Battlefront 2",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": null,
+      "url":
+        "http://www.ign.com/articles/2017/11/17/star-wars-battlefront-2-review"
+    },
+    {
+      "name": "Call of Duty: Infinite Warfare",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": null,
+      "url":
+        "http://www.ign.com/articles/2016/11/07/call-of-duty-infinite-warfare-review"
+    },
+    {
+      "name": "Battlefield 1",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": null,
+      "url": "http://www.ign.com/articles/2016/10/21/battlefield-1-review"
+    },
+    {
+      "name": "Nioh",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": null,
+      "url": "http://www.ign.com/articles/2017/02/02/nioh-review"
+    },
+    {
+      "name": "Fortnite Battle Royale",
+      "score": "9.6",
+      "description":
+        "Thanks to the freedom of its outstanding building mechanic, Fortnite Battle Royale isn\u2019t just a great battle royale game \u2013 it\u2019s one of the best multiplayer games in recent history.",
+      "oneword": "Amazing",
+      "platforms": null,
+      "url":
+        "http://www.ign.com/articles/2018/03/27/fortnite-battle-royale-review"
+    },
+    {
+      "name": "Ghost Recon: Wildlands",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": null,
+      "url":
+        "http://www.ign.com/articles/2017/03/08/ghost-recon-wildlands-review"
+    },
+    {
+      "name": "XCOM 2",
+      "score": null,
+      "description": null,
+      "oneword": null,
+      "platforms": null,
+      "url": "http://www.ign.com/articles/2016/02/01/xcom-2-review"
+    },
+    {
+      "name": "The Last of Us: Remastered",
+      "score": "10",
+      "description":
+        "With The Last of Us: Remastered, PlayStation 3\u2019s best game just became PlayStation 4\u2019s, too.",
+      "oneword": "Masterpiece",
+      "platforms": null,
+      "url":
+        "http://www.ign.com/articles/2014/07/28/the-last-of-us-remastered-review"
+    }
+  ],
+  "failedURLs": [
+      "http://www.ign.com/articles/2016/11/22/assassinas-creed-the-ezio-collection-review",
+      "http://www.ign.com/articles/2016/07/08/ign-uk-podcast-339-the-best-games-of-2016-so-far"
+    ]
+}

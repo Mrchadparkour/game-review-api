@@ -1,0 +1,14 @@
+/Users/wick/personalDev/game-review-api/obj/Debug/netcoreapp2.1/game-review-api.csprojAssemblyReference.cache
+/Users/wick/personalDev/game-review-api/obj/Debug/netcoreapp2.1/game-review-api.csproj.CoreCompileInputs.cache
+/Users/wick/personalDev/game-review-api/obj/Debug/netcoreapp2.1/game-review-api.RazorAssemblyInfo.cache
+/Users/wick/personalDev/game-review-api/obj/Debug/netcoreapp2.1/game-review-api.RazorAssemblyInfo.cs
+/Users/wick/personalDev/game-review-api/obj/Debug/netcoreapp2.1/game-review-api.AssemblyInfoInputs.cache
+/Users/wick/personalDev/game-review-api/obj/Debug/netcoreapp2.1/game-review-api.AssemblyInfo.cs
+/Users/wick/personalDev/game-review-api/bin/Debug/netcoreapp2.1/game-review-api.deps.json
+/Users/wick/personalDev/game-review-api/bin/Debug/netcoreapp2.1/game-review-api.runtimeconfig.json
+/Users/wick/personalDev/game-review-api/bin/Debug/netcoreapp2.1/game-review-api.runtimeconfig.dev.json
+/Users/wick/personalDev/game-review-api/bin/Debug/netcoreapp2.1/game-review-api.dll
+/Users/wick/personalDev/game-review-api/bin/Debug/netcoreapp2.1/game-review-api.pdb
+/Users/wick/personalDev/game-review-api/obj/Debug/netcoreapp2.1/game-review-api.RazorTargetAssemblyInfo.cache
+/Users/wick/personalDev/game-review-api/obj/Debug/netcoreapp2.1/game-review-api.dll
+/Users/wick/personalDev/game-review-api/obj/Debug/netcoreapp2.1/game-review-api.pdb
